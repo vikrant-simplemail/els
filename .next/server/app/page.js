@@ -220,7 +220,7 @@ module.exports = require("next/dist/shared/lib/utils/warn-once");
 
 /***/ }),
 
-/***/ 3421:
+/***/ 9594:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -250,17 +250,17 @@ __webpack_require__.r(__webpack_exports__);
         '',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5607)), "C:\\els\\app\\page.tsx"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5607)), "/Users/vikrant/Downloads/els/app/page.tsx"],
           
         }]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5200)), "C:\\els\\app\\layout.tsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5200)), "/Users/vikrant/Downloads/els/app/layout.tsx"],
           
         }
       ]
       }.children;
-    const pages = ["C:\\els\\app\\page.tsx"];
+    const pages = ["/Users/vikrant/Downloads/els/app/page.tsx"];
 
     
 
@@ -285,32 +285,32 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 4807:
+/***/ 1956:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5785))
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 5968))
 
 /***/ }),
 
-/***/ 1150:
+/***/ 9999:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 885, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 4564, 23));
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 885, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 772, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 8262, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 4249, 23))
 
 /***/ }),
 
-/***/ 2786:
+/***/ 8178:
 /***/ (() => {
 
 
 
 /***/ }),
 
-/***/ 5785:
+/***/ 5968:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -330,14 +330,14 @@ var react_ = __webpack_require__(8038);
 var next_image = __webpack_require__(8421);
 var image_default = /*#__PURE__*/__webpack_require__.n(next_image);
 ;// CONCATENATED MODULE: ./assets/heroboy.png
-/* harmony default export */ const heroboy = ({"src":"/_next/static/media/heroboy.456e0090.png","height":788,"width":954,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAATlBMVEVMaXE+J0YyETWFWmdxdZEpUngSO182UYNGMGgwZ489CSo3aZvx///Tn5NGa5zKw9mceZi6pLwrXoeVg6tDT3soTmo6GDibVFzbmJZoYIQXIUyRAAAAFnRSTlMAw53M/ryuCTRWvikTWLt5k/p6+tWqgMf3iwAAAAlwSFlzAAALEwAACxMBAJqcGAAAADhJREFUeJwlxtsWgBAUANGpcBBdUf7/Ry3My2wAsUJPlrJObJ8fIP7XeDjv1wL7oVRNDpw2JuunASPrAXsts8MqAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":7});
+/* harmony default export */ const heroboy = ({"src":"/_next/static/media/heroboy.456e0090.png","height":788,"width":954,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAATlBMVEVMaXE9CCnToZL///89JkYyETWFW2c5XYpDQXgYQGIrZJLNxNpGa5snV4JCTXuaeZg4bZFzepoqXYi7pL0tSm2WhKxoZYM5FzicVFval5YACUiWAAAAFnRSTlMAvlcSwp3MCTCpXna8utaTTf14+bX6Oujm+QAAAAlwSFlzAAALEwAACxMBAJqcGAAAADlJREFUeJxjYGBgYOdgZwABdhZxVgiDTYIRzGBgkuQH08zcwqIcDAwMHDyCYmJ8AgwMXLycnJwiQgAjxwGTqK1vPwAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":7});
 // EXTERNAL MODULE: ./node_modules/next/link.js
 var next_link = __webpack_require__(1621);
 var link_default = /*#__PURE__*/__webpack_require__.n(next_link);
 // EXTERNAL MODULE: ./node_modules/react-icons/bs/index.esm.js
 var index_esm = __webpack_require__(5484);
 ;// CONCATENATED MODULE: ./assets/apple.png
-/* harmony default export */ const apple = ({"src":"/_next/static/media/apple.78d895ee.png","height":36,"width":29,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAJ1BMVEX////////////////////////////////+/v7////////+/v7////mWIN5AAAADHRSTlP6AenXuaZzFDuKIFIFSVshAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMElEQVR4nBXHyRHAMAzEMK4lXwn7rzcT/ECSe0P2nicsqpkM1QWC5x82U3TwVDXvBxtyARJdNai6AAAAAElFTkSuQmCC","blurWidth":6,"blurHeight":8});
+/* harmony default export */ const apple = ({"src":"/_next/static/media/apple.78d895ee.png","height":36,"width":29,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAKlBMVEX///////9MaXH////////////////////////////+/v7///////////9nTNG8AAAADXRSTlP56QDWGLqEpgJROGpA3oW2YgAAAAlwSFlzAAALEwAACxMBAJqcGAAAADBJREFUeJwVx8cRwDAMwDBaxXIK9183F/zAObF3EFXzBptshqX6gOL9D5sRXVRmc30hKAE6yYE8MwAAAABJRU5ErkJggg==","blurWidth":6,"blurHeight":8});
 // EXTERNAL MODULE: ./components/stars.module.css
 var stars_module = __webpack_require__(1270);
 var stars_module_default = /*#__PURE__*/__webpack_require__.n(stars_module);
@@ -391,7 +391,7 @@ const Stars = ()=>{
 // EXTERNAL MODULE: ./node_modules/react-icons/gi/index.esm.js
 var gi_index_esm = __webpack_require__(3347);
 ;// CONCATENATED MODULE: ./assets/boygroup.png
-/* harmony default export */ const boygroup = ({"src":"/_next/static/media/boygroup.e9733c96.png","height":703,"width":764,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAAS1BMVEVMaXGPWX5FV4svIV3c9+aTbHNDWYJZXHU+L1+lpqWydG0jI0Y5CSloR3mcgKQ7UXy9gX1OP11EaZfGbVxbZHu1xObBpbZLXH5dL0rPM9iDAAAAF3RSTlMApzETCRhHIgoEJ0G/PfDX6VXoSIY02JOG9AMAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA7SURBVHicFcZbFoAgCEDBq0KAvdOy/a+003wNQIQEoC4CUNI6m03g5XyXP1Q7kgfUdj9bVkf7Ncae+QAo5gG0ZbDPTQAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":7});
+/* harmony default export */ const boygroup = ({"src":"/_next/static/media/boygroup.e9733c96.png","height":703,"width":764,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAAS1BMVEWUlbB6OVoeIkU6CytDWYOHeIZHVok4MlloXHTI9+hoR3WOWYuOWnCagaS9gH1OP2A7UXxDaZbApLbNfG+ywObDbFpZZHtMXX5eMUsI98muAAAAF3RSTlMBFkLARxkyCyMKPZ2x7+hV1+jXKTVJhp17jmIAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA5SURBVHicHcZJEoAgEATBAoWeUcFd/P9LDTllAjgOkORdzVM0G0FhfYc/nFYXAXZfR8lJhGdvbct8JwoBq/3R0B0AAAAASUVORK5CYII=","blurWidth":8,"blurHeight":7});
 ;// CONCATENATED MODULE: ./components/Header.tsx
 /* __next_internal_client_entry_do_not_use__ default auto */ 
 
@@ -742,756 +742,14 @@ function Header() {
 
 // EXTERNAL MODULE: ./node_modules/react-multi-carousel/lib/styles.css
 var styles = __webpack_require__(7915);
-// EXTERNAL MODULE: ./node_modules/react-slick/lib/index.js
-var lib = __webpack_require__(7738);
-// EXTERNAL MODULE: ./node_modules/slick-carousel/slick/slick.css
-var slick = __webpack_require__(8217);
-// EXTERNAL MODULE: ./node_modules/slick-carousel/slick/slick-theme.css
-var slick_theme = __webpack_require__(2330);
-;// CONCATENATED MODULE: ./assets/Step.gif
-/* harmony default export */ const Step = ({"src":"/_next/static/media/Step.a1f9481d.gif","height":1617,"width":800,"blurWidth":0,"blurHeight":0});
-;// CONCATENATED MODULE: ./assets/girl1.png
-/* harmony default export */ const girl1 = ({"src":"/_next/static/media/girl1.18829ab7.png","height":237,"width":320,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAMAAADJ2y/JAAAAYFBMVEVwk3DZf4tgMSNaLh7pzsrRv66pqdudlKeNtGFYLRwAAADpu7Gmw7d3q1f0zshoNyS9q655TTuNX0qFVTxSIxPN28HdpKTJubDFdHjQxtLJobxbLRu70f/MoJKvyH7Msqi0IowxAAAAG3RSTlMB34pu4nuWEtzZCV9Wj8GpVf7RKp37hz763d9LaoPVAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAOUlEQVR4nAXBiQKAEBBAwaewq0L3qfz/XzZDL1FVgOT02wbAXuPuDgFfbmPr3CHenO/0tMCS1xCaHzgNAi96tW88AAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":6});
-;// CONCATENATED MODULE: ./assets/Step2.gif
-/* harmony default export */ const Step2 = ({"src":"/_next/static/media/Step2.7e5d1f47.gif","height":1212,"width":600,"blurWidth":0,"blurHeight":0});
-;// CONCATENATED MODULE: ./assets/Step4.gif
-/* harmony default export */ const Step4 = ({"src":"/_next/static/media/Step4.915c371c.gif","height":1211,"width":600,"blurWidth":0,"blurHeight":0});
-;// CONCATENATED MODULE: ./assets/boy1.png
-/* harmony default export */ const boy1 = ({"src":"/_next/static/media/boy1.4531d0e9.png","height":197,"width":355,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAMAAACEE47CAAAARVBMVEWSm6tVKTrBnIp5ktHDpaqZob2LZnjH4eZ/puJxNz62loyKVlWchYrRcknqsY3dgE5nh75ZfdCvqa7wqHOBUFTUu7BQg+POZMYyAAAAFXRSTlMCV6blM1o3ELQl7sDpZPmJqk3I8ONJ6vy/AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAKUlEQVR4nAXBhQEAIAzAsKLDHf4/lQRAnRxBnOibomBH2W2FAPjazZsfEQABHWkK2psAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":4});
-;// CONCATENATED MODULE: ./assets/girl.png
-/* harmony default export */ const girl = ({"src":"/_next/static/media/girl.8e383bb2.png","height":173,"width":216,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAMAAADJ2y/JAAAAXVBMVEVMaXHEvMTQubjdu69yZXG/r6rm6/e2psHfj6SLTVjtpKz/1sVOSmtBUHJ6XGmEmcGkmJZ1bIaircWji4U3N1fEr77AscPZ1tu0qsIqKkioZ3fL2+zBlqBeV3by18PIRTKcAAAAHXRSTlMA88Qt/fL6BWAV3iy5sl7I/PZ06ymdRfzcbS/PgeKTO38AAAAJcEhZcwAACxMAAAsTAQCanBgAAAA4SURBVHicBcGHAYAgEACxoz7YUMAClv3HNAGZ3ykCVOvsMhpo5Vu3ISBZO5UC7N7f54EQH62uDj8z4QIDWoaeVAAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":6});
-;// CONCATENATED MODULE: ./assets/phone.gif
-/* harmony default export */ const phone = ({"src":"/_next/static/media/phone.ed3b0808.gif","height":1210,"width":600,"blurWidth":0,"blurHeight":0});
-;// CONCATENATED MODULE: ./assets/boy.png
-/* harmony default export */ const boy = ({"src":"/_next/static/media/boy.e243d15d.png","height":330,"width":247,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAclBMVEVMaXHlrKveg3uyoZzynKDaWWfenr/kjJEZJ0XjdHy4pJ1bW2fiyMfkmpW3gJzhuLw5TXk/TW3Vs7CSiIUuOldrbXfadILww7fYjMGarvyphZjKda2AuPzOh8S3t+asqMrLbaKYmO+FfH2qjKLUtt/Vu+7+hBAsAAAAInRSTlMAWBL7+PIn+h37+lTL+fmRl/T4/sH0vmuR/f2pZcf78oqY3j2olAAAAAlwSFlzAAALEwAACxMBAJqcGAAAADxJREFUeJwFwQUCgCAAALEDSbsTE/3/F92gbnoHbuieDKo2SXODsoVVgtF7rSUilusZmN7l+G7kvG+X+QFCygLqflT6dQAAAABJRU5ErkJggg==","blurWidth":6,"blurHeight":8});
-;// CONCATENATED MODULE: ./assets/book.png
-/* harmony default export */ const book = ({"src":"/_next/static/media/book.cdab5b74.png","height":104,"width":163,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAMAAABPT11nAAAAYFBMVEVMaXHAtpVz0aRuwKLGx4vuk4jfk5piwYaZu61xzJbRYm/cZFZhmZV6tLh7zpD4h3xOvJTndmH4tY6au7S7uKZvwK77mXXcdXbmcFx4zZzvoJFTy6z/sZWM2s3vgoP5rHTW0Or1AAAAGXRSTlMA9P3YGsev6PmzPn8/9o+o/aL80dhJTuj9rUUy0AAAAAlwSFlzAAALEwAACxMBAJqcGAAAADVJREFUeJxjYBDl5GRn52NhEBORZZIUkGZmYJVn5OXgEOZhYJOTkBKS4WdgYGETZxXk5mIAAC9EAhgCnXxWAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":5});
-;// CONCATENATED MODULE: ./assets/cloud.png
-/* harmony default export */ const cloud = ({"src":"/_next/static/media/cloud.7bfeef7e.png","height":261,"width":1728,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAABCAMAAADU3h9xAAAABlBMVEWIf8RDQ/9Ro+HnAAAAAnRSTlMKAft7FSQAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAOSURBVHicY2BgBAEGBgAAIgAG8FMIOgAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":1});
-;// CONCATENATED MODULE: ./assets/butterfly.png
-/* harmony default export */ const butterfly = ({"src":"/_next/static/media/butterfly.a3c379c0.png","height":188,"width":344,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAMAAACEE47CAAAAG1BMVEVMaXGe4daW1sjxp8Lsq7Pxtsjjs8fmttj2qb+LfyhWAAAACXRSTlMACx1Sla0ladG0ywwaAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJElEQVR4nGNgYGZlAAMWDnZGBgYGRgY2ZgYmBgZGEAdEMjEBAAQHADFHxTddAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":4});
-;// CONCATENATED MODULE: ./assets/wave.png
-/* harmony default export */ const wave = ({"src":"/_next/static/media/wave.2f3b95bc.png","height":260,"width":1730,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAABCAMAAADU3h9xAAAAFVBMVEWd03e124WbxnmQxGqc0m+KzWyf1HvMNwAZAAAAB3RSTlOK8rHr/qTSEG2UpAAAAAlwSFlzAAALEwAACxMBAJqcGAAAABFJREFUeJxjYGZhZGNlYGACAAB3ABZTQcI4AAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":1});
-;// CONCATENATED MODULE: ./assets/mobilewave.png
-/* harmony default export */ const mobilewave = ({"src":"/_next/static/media/mobilewave.e88e6fa9.png","height":246,"width":640,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAALVBMVEWOxzia1Xen1W+/4oy93YS73Ymh1HCW0muj2HKKzmSt3Ja41HGMt2ax3pGWxGXhC+6DAAAADHRSTlMC/v4o+d+244P9FhJMKlqhAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAI0lEQVR4nGNg4GJm5mZgYGBgZ2RkYmFl42Dg4eNk4uVl5AEABbMAiiJUAx4AAAAASUVORK5CYII=","blurWidth":8,"blurHeight":3});
-;// CONCATENATED MODULE: ./assets/cloudmob.png
-/* harmony default export */ const cloudmob = ({"src":"/_next/static/media/cloudmob.0662164d.png","height":48,"width":126,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAABlBMVEV5bsZ1dbrXqOCqAAAAAnRSTlMUArYze0EAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAUSURBVHicY2BkZGRkYGBkBCFUAAAAxQAJaYPsqgAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":3});
-;// CONCATENATED MODULE: ./components/Carouselpage.tsx
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-const Caruselpage = ()=>{
-    const carouselItems = [
-        "Item 1",
-        "Item 2",
-        "Item 3",
-        "Item 4"
-    ];
-    // State to keep track of the active index
-    const [activeIndex, setActiveIndex] = (0,react_.useState)(0);
-    const [currentSlide, setCurrentSlide] = (0,react_.useState)(0);
-    // Callback function to handle the carousel slide change
-    const handleSlideChange = (currentIndex)=>{
-        setActiveIndex(currentIndex);
-    };
-    const settings = {
-        // Add your desired settings here, such as dots, infinite, autoplay, etc.
-        dots: false,
-        infinite: true,
-        autoplay: true,
-        autoplaySpeed: 3000,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        customPaging: (i)=>/*#__PURE__*/ jsx_runtime_.jsx("div", {
-                className: i === currentSlide ? "dot active" : i < currentSlide ? "dot completed" : "dot",
-                children: i + 1
-            }),
-        beforeChange: (oldIndex, newIndex)=>setCurrentSlide(newIndex)
-    };
-    const sliderRef = (0,react_.useRef)(null);
-    return /*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
-        children: [
-            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                className: " 3xl:h-[1110px] 2xl:h-[1110px] xl:h-[720px] lg:h-[620px] bg-[#F8F7FF] pt-8 xl:pt-4 relative w-full md:hidden sm:hidden xs:hidden lg:block",
-                children: [
-                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: "relative",
-                        children: [
-                            /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                src: cloud,
-                                className: " xl:h-[190px] 2xl:h-[210px] w-full",
-                                alt: ""
-                            }),
-                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                id: "how",
-                                className: "flex items-center justify-center",
-                                children: [
-                                    " ",
-                                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                        className: "absolute top-20 2xl:top-36 lg:top-10 items-center text-black 3xl:text-7xl 2xl:text-6xl xl:text-5xl lg:text-4xl font-bold leading-normal;",
-                                        children: "How it works"
-                                    })
-                                ]
-                            }),
-                            /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                src: wave,
-                                className: "absolute w-full 3xl:top-[897px] 3xl:left-0 2xl:top-[897px] 2xl:left-0 2xl:h-[214px] xl:top-[513px] xl:left-0 xl:h-[193px] lg:top-[413px] lg:left-0 lg:h-[193px]",
-                                alt: ""
-                            }),
-                            /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                className: "absolute 3xl:top-[957px] 3xl:left-[1058px] 3xl:w-[163px] 3xl:h-[104px] 2xl:top-[917px] 2xl:left-[943.01px] 2xl:w-[153px] 2xl:h-[93px] xl:top-[580px] xl:left-[743px] xl:w-[75px] xl:h-[48px] lg:top-[480px] lg:left-[643px] lg:w-[75px] lg:h-[48px]",
-                                src: book,
-                                alt: ""
-                            }),
-                            /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                className: "absolute 3xl:top-[643px] 3xl:left-[173.01px] 2xl:top-[693px] 2xl:left-[103.01px] 2xl:w-[253px] xl:top-[403px] xl:left-[93.01px] xl:w-[243px] lg:top-[343px] lg:left-[43.01px] lg:w-[203px] ",
-                                src: butterfly,
-                                alt: ""
-                            })
-                        ]
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                        className: "flex justify-center items-center 3xl:mt-24 2xl:mt-24 ",
-                        children: carouselItems.map((_, index)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
-                                children: [
-                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("span", {
-                                        className: `rounded-full flex justify-center items-center  z-50 ${index <= currentSlide ? "border border-black" : ""} ${index === currentSlide ? "w-14 h-14 lg:w-12 lg:h-12 bg-[#6470D7] text-white font-bold lg:text-sm text-lg border-solid border-[8px] border-indigo-300 " : index < currentSlide ? "w-8 h-8 bg-[#6470D7] text-white font-bold text-lg" : "w-8 h-8 bg-[#DBDBDB] text-white font-bold text-lg"}`,
-                                        onClick: ()=>sliderRef.current?.slickGoTo(index),
-                                        children: [
-                                            index + 1,
-                                            index === currentSlide && /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                className: ""
-                                            })
-                                        ]
-                                    }, index),
-                                    index < carouselItems.length - 1 && /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                        className: `w-24 h-1 ${index < currentSlide - 0 ? "bg-[#6470D7]" : "bg-[#DBDBDB]"}`
-                                    })
-                                ]
-                            }))
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                        className: "",
-                        children: /*#__PURE__*/ jsx_runtime_.jsx(lib/* default */.Z, {
-                            ...settings,
-                            ref: sliderRef,
-                            children: carouselItems.map((_, index)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    children: [
-                                        index === 0 && /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                className: "flex justify-center items-center pt-20 lg:pt-8 ",
-                                                children: [
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                        className: "3xl:pl-52 2xl:pl-52 xl:pl-14",
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                            className: "rounded-3xl border-4 border-solid border-black 3xl:w-[280px] 3xl:h-[517px] 2xl:w-[280px] 2xl:h-[517px] xl:w-[185px] xl:h-[336px] lg:w-[155px] lg:h-[296px]",
-                                                            src: Step,
-                                                            alt: ""
-                                                        })
-                                                    }),
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                        className: "2xl:mt-[420px] 3xl:mt-[340px] xl:mt-[160px] lg:mt-[160px]",
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                            className: "xl:w-[147px] xl:h-[110px] lg:w-[147px] lg:h-[110px] 2xl:w-[300px] 2xl:h-[227px] 3xl:w-[320px] 3xl:h-[237px]",
-                                                            src: girl1,
-                                                            alt: ""
-                                                        })
-                                                    }),
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                        className: "pl-[31px] xl:pb-24 ",
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                            className: "3xl:w-[645px] 3xl:h-[223px] 2xl:w-[545px] 2xl:h-[193px] xl:w-[477px] xl:h-[166px] lg:w-[377px] lg:h-[126px] flex-shrink-0 rounded-lg bg-[#FCFCFC]",
-                                                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                className: "3xl:pt-[65px] 2xl:pt-[65px] xl:pt-[48px] lg:pt-[36px] flex items-center justify-center",
-                                                                children: [
-                                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                                        className: "w-[62px] h-[62px] rounded-full bg-[#D68294]",
-                                                                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                            className: "text-white 3xl:text-4xl 2xl:text-3xl xl:text-2xl lg:text-xl font-extrabold flex items-center justify-center pt-3.5",
-                                                                            children: "1"
-                                                                        })
-                                                                    }),
-                                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                        className: "pl-6",
-                                                                        children: [
-                                                                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                                className: "text-[#2A2E36] 3xl:text-4xl 2xl:text-3xl xl:text-2xl font-extrabold",
-                                                                                children: "Start your adventure"
-                                                                            }),
-                                                                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                                className: "text-[#2A2E36] 3xl:text-2xl 2xl:text-xl xl:text-lg font-normal",
-                                                                                children: "Speak out your story idea or plot"
-                                                                            })
-                                                                        ]
-                                                                    })
-                                                                ]
-                                                            })
-                                                        })
-                                                    })
-                                                ]
-                                            })
-                                        }),
-                                        index === 1 && /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                className: "flex justify-center items-center pt-20",
-                                                children: [
-                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                        className: "2xl:pl-36 3xl:pl-56 xl:pl-28",
-                                                        children: [
-                                                            /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                                className: "rounded-3xl border-4 border-solid border-black 3xl:w-[280px] 3xl:h-[517px] 2xl:w-[280px] 2xl:h-[517px] xl:w-[185px] xl:h-[336px] lg:w-[120px] lg:h-[236px] mb-14",
-                                                                src: Step2,
-                                                                alt: ""
-                                                            }),
-                                                            "            "
-                                                        ]
-                                                    }),
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                        className: "xl:mt-[80px] 2xl:mt-[380px] 3xl:mt-[380px] lg:mt-[60px]",
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                            className: "xl:w-[171px] xl:h-[96px] lg:w-[167px] lg:h-[96px] 2xl:w-[250px] 2xl:h-[137px] 3xl:w-[355px] 3xl:h-[197px]",
-                                                            src: boy1,
-                                                            alt: ""
-                                                        })
-                                                    }),
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                        className: "pl-[31px] xl:pb-24 lg:pb-24 ",
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                            className: "3xl:w-[645px] 3xl:h-[223px] 2xl:w-[545px] 2xl:h-[193px] xl:w-[477px] xl:h-[166px] lg:w-[377px] lg:h-[126px] flex-shrink-0 rounded-lg bg-[#FCFCFC]",
-                                                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                className: "3xl:pt-[65px] 2xl:pt-[65px] xl:pt-[25px] lg:pt-[36px] flex items-center justify-center",
-                                                                children: [
-                                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                                        className: "w-[62px] h-[62px] rounded-full bg-[#DE976F]",
-                                                                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                            className: "text-white 3xl:text-4xl 2xl:text-3xl xl:text-2xl lg:text-xl font-extrabold flex items-center justify-center pt-3.5",
-                                                                            children: "2"
-                                                                        })
-                                                                    }),
-                                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                        className: "pl-6",
-                                                                        children: [
-                                                                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                                className: "text-[#2A2E36] 3xl:text-4xl 2xl:text-3xl xl:text-2xl font-extrabold",
-                                                                                children: "Pick your picture"
-                                                                            }),
-                                                                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                                                                                className: "text-[#2A2E36] 3xl:text-2xl 2xl:text-xl xl:text-lg font-normal",
-                                                                                children: [
-                                                                                    "Sit back and listen as the story ",
-                                                                                    /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
-                                                                                    " unfolds"
-                                                                                ]
-                                                                            })
-                                                                        ]
-                                                                    })
-                                                                ]
-                                                            })
-                                                        })
-                                                    })
-                                                ]
-                                            })
-                                        }),
-                                        index === 2 && /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                className: "flex justify-center items-center pt-20",
-                                                children: [
-                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                        className: "3xl:pl-56 2xl:pl-56 xl:pl-28",
-                                                        children: [
-                                                            /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                                className: "rounded-3xl border-4 border-solid border-black 3xl:w-[280px] 3xl:h-[517px] 2xl:w-[280px] 2xl:h-[517px] xl:w-[185px] xl:h-[336px] lg:w-[120px] lg:h-[236px] mb-14",
-                                                                src: phone,
-                                                                alt: ""
-                                                            }),
-                                                            "            "
-                                                        ]
-                                                    }),
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                        className: "xl:mt-[80px] 2xl:mt-[380px] 3xl:mt-[380px] lg:mt-[100px]",
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                            className: "xl:w-[154px] xl:h-[124px] lg:w-[134px] lg:h-[104px] 2xl:w-[219px] 2xl:h-[174px] 3xl:w-[319px] 3xl:h-[225px]",
-                                                            src: girl,
-                                                            alt: ""
-                                                        })
-                                                    }),
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                        className: "pl-[31px] xl:pb-24 lg:pb-24 ",
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                            className: "3xl:w-[645px] 3xl:h-[223px] 2xl:w-[545px] 2xl:h-[193px] xl:w-[477px] xl:h-[166px] lg:w-[377px] lg:h-[126px] flex-shrink-0 rounded-lg bg-[#FCFCFC]",
-                                                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                className: "3xl:pt-[65px] 2xl:pt-[65px] xl:pt-[25px] lg:pt-[36px] flex items-center justify-center",
-                                                                children: [
-                                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                                        className: "w-[62px] h-[62px] rounded-full bg-[#7AA0CD]",
-                                                                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                            className: "text-white 3xl:text-4xl 2xl:text-3xl xl:text-2xl lg:text-xl font-extrabold flex items-center justify-center pt-3.5",
-                                                                            children: "3"
-                                                                        })
-                                                                    }),
-                                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                        className: "pl-6",
-                                                                        children: [
-                                                                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                                className: "text-[#2A2E36] 3xl:text-4xl 2xl:text-3xl xl:text-2xl font-extrabold",
-                                                                                children: "​Enjoy the tale"
-                                                                            }),
-                                                                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                                                                                className: "text-[#2A2E36] 3xl:text-2xl 2xl:text-xl xl:text-lg font-normal",
-                                                                                children: [
-                                                                                    "Sit back and listen as the story ",
-                                                                                    /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
-                                                                                    " unfolds"
-                                                                                ]
-                                                                            })
-                                                                        ]
-                                                                    })
-                                                                ]
-                                                            })
-                                                        })
-                                                    })
-                                                ]
-                                            })
-                                        }),
-                                        index === 3 && /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                className: "flex justify-center items-center pt-20",
-                                                children: [
-                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                        className: "3xl:pl-56 2xl:pl-36 xl:pl-28",
-                                                        children: [
-                                                            /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                                className: "rounded-3xl border-4 border-solid border-black 3xl:w-[280px] 3xl:h-[517px] 2xl:w-[280px] 2xl:h-[517px] xl:w-[185px] xl:h-[336px] lg:w-[120px] lg:h-[236px] mb-14",
-                                                                src: Step4,
-                                                                alt: ""
-                                                            }),
-                                                            "            "
-                                                        ]
-                                                    }),
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                        className: "xl:mt-[80px] 2xl:mt-[380px] 3xl:mt-[380px] lg:mt-[90px]",
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                            className: "xl:w-[114px] xl-[154px] lg:w-[104px] lg:h-[134px] 2xl:w-[150px] 2xl:h-[200px] 3xl:w-[188px] 3xl:h-[253px]",
-                                                            src: boy,
-                                                            alt: ""
-                                                        })
-                                                    }),
-                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                        className: "pl-[100px] xl:pb-24 lg:pb-24 ",
-                                                        children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                            className: "3xl:w-[645px] 3xl:h-[223px] 2xl:w-[545px] 2xl:h-[193px] xl:w-[477px] xl:h-[166px] lg:w-[377px] lg:h-[126px] flex-shrink-0 rounded-lg bg-[#FCFCFC]",
-                                                            children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                className: "3xl:pt-[65px] 2xl:pt-[65px] xl:pt-[25px] lg:pt-[36px] flex items-center justify-center",
-                                                                children: [
-                                                                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                                        className: "w-[62px] h-[62px] rounded-full bg-[#98D575]",
-                                                                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                            className: "text-white 3xl:text-4xl 2xl:text-3xl xl:text-2xl lg:text-xl font-extrabold flex items-center justify-center pt-3.5",
-                                                                            children: "4"
-                                                                        })
-                                                                    }),
-                                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                        className: "pl-6",
-                                                                        children: [
-                                                                            /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                                className: "text-[#2A2E36] 3xl:text-4xl 2xl:text-3xl xl:text-2xl font-extrabold",
-                                                                                children: "Keep the magic alive"
-                                                                            }),
-                                                                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                                                                                className: "text-[#2A2E36] 3xl:text-2xl 2xl:text-xl xl:text-lg font-normal",
-                                                                                children: [
-                                                                                    "Add another page to continue ",
-                                                                                    /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
-                                                                                    "your story"
-                                                                                ]
-                                                                            })
-                                                                        ]
-                                                                    })
-                                                                ]
-                                                            })
-                                                        })
-                                                    })
-                                                ]
-                                            })
-                                        })
-                                    ]
-                                }, index))
-                        })
-                    })
-                ]
-            }),
-            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                className: "bg-[#F8F7FF] sm:h-[1170px] md:h-[1270px] xs:h-[658px] lg:hidden md:block sm:block xs:block",
-                children: [
-                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                        className: "relative",
-                        children: [
-                            /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                className: "absolute w-full md:top-[974px] sm:top-[924px] xs:top-[506px]",
-                                src: mobilewave,
-                                alt: ""
-                            }),
-                            /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                className: "sm:left-[450px] sm:top-[34px] md:left-[450px] md:top-[34px] xs:left-[243px] xs:top-[19px] absolute",
-                                src: cloudmob,
-                                alt: ""
-                            })
-                        ]
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                        className: "flex items-center justify-center md:pt-[129px] sm:pt-[129px] xs:pt-[73px]",
-                        children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                            className: "xs:w-[130px] xs:h-[30px] xs:text-xl sm:w-[230px] sm:h-[53px] sm:text-4xl md:w-[240px] md:h-[63px] md:text-4xl font-bold text-[#2A2E36]",
-                            children: "How it works"
-                        })
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                        className: "flex justify-center items-center md:pb-[126px] sm:pb-[126px] xs:pb-[57px]",
-                        children: carouselItems.map((item, index)=>/*#__PURE__*/ (0,jsx_runtime_.jsxs)(jsx_runtime_.Fragment, {
-                                children: [
-                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("span", {
-                                        className: `rounded-full flex justify-center items-center  z-50 ${index <= currentSlide ? "border border-black" : ""} ${index === currentSlide ? "w-14 h-14 bg-[#6470D7] text-white font-bold lg:text-sm text-lg border-solid border-[8px] border-indigo-300 " : index < currentSlide ? "w-8 h-8 bg-[#6470D7] text-white font-bold text-lg" : "w-8 h-8 bg-[#DBDBDB] text-white font-bold text-lg"}`,
-                                        children: [
-                                            index + 1,
-                                            index === currentSlide && /*#__PURE__*/ jsx_runtime_.jsx("span", {
-                                                className: ""
-                                            })
-                                        ]
-                                    }, index),
-                                    index < carouselItems.length - 1 && /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                        className: `md:w-24 sm:w-24 xs:w-14 h-1 ${index < currentSlide - 0 ? "bg-[#6470D7]" : "bg-[#DBDBDB]"}`
-                                    })
-                                ]
-                            }))
-                    }),
-                    /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)(lib/* default */.Z, {
-                            ...settings,
-                            children: [
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                            className: "flex justify-center items-center md:pb-[126px] sm:pb-[126px] xs:pb-[70px]",
-                                            children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                className: "",
-                                                children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "rounded-lg bg-[#FCFCFC] md:w-[488px] md:h-[151px] sm:w-[488px] sm:h-[151px] xs:w-[275px] xs:h-[84px]",
-                                                    children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                        className: "flex items-center justify-center xs:pt-5 sm:pt-10 md:pt-11",
-                                                        children: [
-                                                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                                className: "md:w-[62px] md:h-[62px] sm:w-[62px] sm:h-[62px] xs:w-[33px] xs:h-[33px] rounded-full bg-[#D68294]",
-                                                                children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                    className: "text-white font-extrabold flex items-center justify-center md:pt-3.5 sm:pt-3.5 xs:pt-1",
-                                                                    children: "1"
-                                                                })
-                                                            }),
-                                                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                className: "pl-6",
-                                                                children: [
-                                                                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                        className: "font-extrabold xs:text-base sm:text-lg md:text-xl text-[#2A2E36]",
-                                                                        children: "Start your adventure"
-                                                                    }),
-                                                                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                        className: "font-normal xs:text-[10px] sm:text-sm md:text-base text-[#2A2E36]",
-                                                                        children: "Speak out your story idea or plot"
-                                                                    })
-                                                                ]
-                                                            })
-                                                        ]
-                                                    })
-                                                })
-                                            })
-                                        }),
-                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                            className: "flex justify-center items-center",
-                                            children: [
-                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                        className: "md:w-[104px] md:h-[70px] md:mt-[356px] sm:w-[94px] sm:h-[60px] sm:mt-[276px] xs:w-[53px] xs:h-[34px] xs:mt-[156px]",
-                                                        src: book,
-                                                        alt: ""
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "md:w-[224px] md:h-[460px] sm:w-[213px] sm:h-[430px] xs:w-[120px] xs:h-[240px]",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                        className: "rounded-3xl border-4 border-solid border-black ",
-                                                        src: Step,
-                                                        alt: ""
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                        className: "md:w-[179px] md:h-[104px] md:mt-[366px]  sm:w-[169px] sm:h-[94px] sm:mt-[346px]  xs:w-[84px] xs:h-[64px] xs:mt-[156px]",
-                                                        src: girl1,
-                                                        alt: ""
-                                                    })
-                                                })
-                                            ]
-                                        })
-                                    ]
-                                }),
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                            className: "flex justify-center items-center md:pb-[126px] sm:pb-[126px] xs:pb-[78px]",
-                                            children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                className: "",
-                                                children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "rounded-lg bg-[#FCFCFC] md:w-[488px] md:h-[151px] sm:w-[488px] sm:h-[151px] xs:w-[275px] xs:h-[84px]",
-                                                    children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                        className: "flex items-center justify-center xs:pt-5 sm:pt-10 md:pt-11",
-                                                        children: [
-                                                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                                className: "md:w-[62px] md:h-[62px] sm:w-[62px] sm:h-[62px] xs:w-[33px] xs:h-[33px] rounded-full bg-[#DE976F]",
-                                                                children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                    className: "text-white font-extrabold flex items-center justify-center md:pt-3.5 sm:pt-3.5 xs:pt-1",
-                                                                    children: "2"
-                                                                })
-                                                            }),
-                                                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                className: "pl-6",
-                                                                children: [
-                                                                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                        className: "font-extrabold xs:text-base sm:text-lg md:text-xl text-[#2A2E36]",
-                                                                        children: "Pick your picture"
-                                                                    }),
-                                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                                                                        className: "font-normal xs:text-[10px] sm:text-sm md:text-base text-[#2A2E36]",
-                                                                        children: [
-                                                                            "Sit back and listen as the story ",
-                                                                            /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
-                                                                            " unfolds"
-                                                                        ]
-                                                                    })
-                                                                ]
-                                                            })
-                                                        ]
-                                                    })
-                                                })
-                                            })
-                                        }),
-                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                            className: "flex justify-center items-center md:pb-[126px] sm:pb-[126px] xs:pb-[78px]",
-                                            children: [
-                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                        className: "md:w-[104px] md:h-[70px] md:mt-[356px] sm:w-[94px] sm:h-[60px] sm:mt-[276px] xs:w-[53px] xs:h-[34px] xs:mt-[156px]",
-                                                        src: book,
-                                                        alt: ""
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                    className: "md:w-[224px] md:h-[460px] sm:w-[213px] sm:h-[430px] xs:w-[120px] xs:h-[240px]",
-                                                    children: [
-                                                        /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                            className: "rounded-3xl border-4 border-solid border-black ",
-                                                            src: Step2,
-                                                            alt: ""
-                                                        }),
-                                                        "            "
-                                                    ]
-                                                }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                        className: "md:w-[164px] md:h-[123px] md:mt-[366px]  sm:w-[154px] sm:h-[113px] sm:mt-[306px] xs:w-[94px] xs:h-[53px] xs:mt-[156px]",
-                                                        src: boy1,
-                                                        alt: ""
-                                                    })
-                                                })
-                                            ]
-                                        })
-                                    ]
-                                }),
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                            className: "flex justify-center items-center md:pb-[126px] sm:pb-[126px] xs:pb-[78px]",
-                                            children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                className: "",
-                                                children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "rounded-lg bg-[#FCFCFC] md:w-[488px] md:h-[151px] sm:w-[488px] sm:h-[151px] xs:w-[275px] xs:h-[84px]",
-                                                    children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                        className: "flex items-center justify-center xs:pt-5 sm:pt-10 md:pt-11",
-                                                        children: [
-                                                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                                className: "md:w-[62px] md:h-[62px] sm:w-[62px] sm:h-[62px] xs:w-[33px] xs:h-[33px] rounded-full bg-[#7AA0CD]",
-                                                                children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                    className: "text-white font-extrabold flex items-center justify-center md:pt-3.5 sm:pt-3.5 xs:pt-1",
-                                                                    children: "3"
-                                                                })
-                                                            }),
-                                                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                className: "pl-6",
-                                                                children: [
-                                                                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                        className: " font-extrabold xs:text-base sm:text-lg md:text-xl text-[#2A2E36]",
-                                                                        children: "Enjoy the tale"
-                                                                    }),
-                                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                                                                        className: "font-normal xs:text-[10px] sm:text-sm md:text-base text-[#2A2E36]",
-                                                                        children: [
-                                                                            "Sit back and listen as the story ",
-                                                                            /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
-                                                                            " unfolds"
-                                                                        ]
-                                                                    })
-                                                                ]
-                                                            })
-                                                        ]
-                                                    })
-                                                })
-                                            })
-                                        }),
-                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                            className: "flex justify-center items-center",
-                                            children: [
-                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                        className: "md:w-[104px] md:h-[70px] md:mt-[356px] sm:w-[94px] sm:h-[60px] sm:mt-[276px] xs:w-[53px] xs:h-[34px] xs:mt-[156px]",
-                                                        src: book,
-                                                        alt: ""
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                    className: "md:w-[224px] md:h-[460px] sm:w-[213px] sm:h-[430px] xs:w-[120px] xs:h-[240px]",
-                                                    children: [
-                                                        /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                            className: "rounded-3xl border-4 border-solid border-black",
-                                                            src: phone,
-                                                            alt: ""
-                                                        }),
-                                                        "            "
-                                                    ]
-                                                }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                        className: "md:w-[164px] md:h-[123px] md:mt-[366px]  sm:w-[154px] sm:h-[113px] sm:mt-[306px]  xs:w-[100px] xs:h-[80px] xs:mt-[156px]",
-                                                        src: girl,
-                                                        alt: ""
-                                                    })
-                                                })
-                                            ]
-                                        })
-                                    ]
-                                }),
-                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                    children: [
-                                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                            className: "flex justify-center items-center md:pb-[126px] sm:pb-[126px] xs:pb-[78px]",
-                                            children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                className: "",
-                                                children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "rounded-lg bg-[#FCFCFC] md:w-[488px] md:h-[151px] sm:w-[488px] sm:h-[151px] xs:w-[275px] xs:h-[84px]",
-                                                    children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                        className: "flex items-center justify-center xs:pt-5 sm:pt-10 md:pt-11",
-                                                        children: [
-                                                            /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                                className: "md:w-[62px] md:h-[62px] sm:w-[62px] sm:h-[62px] xs:w-[33px] xs:h-[33px] rounded-full bg-[#98D575]",
-                                                                children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                    className: "text-white font-extrabold flex items-center justify-center md:pt-3.5 sm:pt-3.5 xs:pt-1",
-                                                                    children: "4"
-                                                                })
-                                                            }),
-                                                            /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                                className: "pl-6",
-                                                                children: [
-                                                                    /*#__PURE__*/ jsx_runtime_.jsx("p", {
-                                                                        className: " font-extrabold xs:text-base sm:text-lg md:text-xl text-[#2A2E36]",
-                                                                        children: "Keep the magic alive"
-                                                                    }),
-                                                                    /*#__PURE__*/ (0,jsx_runtime_.jsxs)("p", {
-                                                                        className: "font-normal xs:text-[10px] sm:text-sm md:text-base text-[#2A2E36]",
-                                                                        children: [
-                                                                            "Add another page to continue ",
-                                                                            /*#__PURE__*/ jsx_runtime_.jsx("br", {}),
-                                                                            "your story"
-                                                                        ]
-                                                                    })
-                                                                ]
-                                                            })
-                                                        ]
-                                                    })
-                                                })
-                                            })
-                                        }),
-                                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                            className: "flex justify-center items-center",
-                                            children: [
-                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                        className: "md:w-[104px] md:h-[70px] md:mt-[356px] sm:w-[94px] sm:h-[60px] sm:mt-[276px] xs:w-[53px] xs:h-[34px] xs:mt-[156px]",
-                                                        src: book,
-                                                        alt: ""
-                                                    })
-                                                }),
-                                                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
-                                                    className: "md:w-[224px] md:h-[460px] sm:w-[213px] sm:h-[430px] xs:w-[120px] xs:h-[240px]",
-                                                    children: [
-                                                        /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                            className: "rounded-3xl border-4 border-solid border-black ",
-                                                            src: Step4,
-                                                            alt: ""
-                                                        }),
-                                                        "            "
-                                                    ]
-                                                }),
-                                                /*#__PURE__*/ jsx_runtime_.jsx("div", {
-                                                    className: "",
-                                                    children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
-                                                        className: "md:w-[116px] md:h-[156px] md:mt-[326px] sm:w-[116px] sm:h-[156px] sm:mt-[306px] xs:w-[65px] xs:h-[88px] xs:mt-[156px]",
-                                                        src: boy,
-                                                        alt: ""
-                                                    })
-                                                })
-                                            ]
-                                        })
-                                    ]
-                                })
-                            ]
-                        })
-                    })
-                ]
-            })
-        ]
-    });
-};
-/* harmony default export */ const Carouselpage = (Caruselpage);
-
 ;// CONCATENATED MODULE: ./assets/cloud2.png
-/* harmony default export */ const cloud2 = ({"src":"/_next/static/media/cloud2.c4f885bb.png","height":127,"width":404,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAIVBMVEX8/P5kcNdyctX///9tedrz//+nr+deatnLzvBwe9lpduU6LyIQAAAACnRSTlMl9wQwpApgPkW6fz5AFQAAAAlwSFlzAAALEwAACxMBAJqcGAAAACFJREFUeJwFwYkBADAIArED1D77D2yCT4Nt6tcEGkl6N1kEGgBQ/DrZDAAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":3});
+/* harmony default export */ const cloud2 = ({"src":"/_next/static/media/cloud2.c4f885bb.png","height":127,"width":404,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAJFBMVEVkcNj///+qqqr///////9teNlve9lgbNWmq+dtbdrKzvBqduZ7E0AyAAAAC3RSTlP1JAExCqa6PWIOROZEo+YAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAgSURBVHicY+BkZ2FkZGJiYmDlZuVgZmRkYQABNi5mZgAFHgBZ7zGtowAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":3});
 ;// CONCATENATED MODULE: ./assets/Vector7.png
-/* harmony default export */ const Vector7 = ({"src":"/_next/static/media/Vector7.8d2c518f.png","height":52,"width":135,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAG1BMVEVjb9dtbbdnc99kcdpmcdhibtVkb9Znc91mb9n9gmyOAAAACXRSTlPyAfzcJLOJyz794adLAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIElEQVR4nGNgZGFgZmFkZGRgY2ZiYmflYGRgYmIAAVYAA14AO7javMYAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":3});
+/* harmony default export */ const Vector7 = ({"src":"/_next/static/media/Vector7.8d2c518f.png","height":52,"width":135,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAGFBMVEVjb9dwk9tndN9lcdpjb9ZicddlcdZib9QX13xSAAAACHRSTlPzAfzWsiM/iUVbdjcAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAgSURBVHicY2BkZWBmZWRkZGBnZmJiZmFjZGBiYgABFgADRwA2pQV9zwAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":3});
 ;// CONCATENATED MODULE: ./assets/Vector6.png
-/* harmony default export */ const Vector6 = ({"src":"/_next/static/media/Vector6.a1659dbf.png","height":128,"width":314,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAG1BMVEVnc95MaXFjb9Zjb9hjb9dkcdpib9ZhcNlmctth5RF4AAAACXRSTlP9APg0st6JIspCzFY2AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIElEQVR4nAXBgQEAMAiDMFDr9v/FJtjJU9nAnxaoAuYAA9QAPOt1KccAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":3});
+/* harmony default export */ const Vector6 = ({"src":"/_next/static/media/Vector6.a1659dbf.png","height":128,"width":314,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAGFBMVEVndN5MaXFjb9dlctplb9ljb9ZncNhib9ZgZtSrAAAACHRSTlP9APjXKLI7iRoXEhQAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAfSURBVHicBcGBAQAwCIMwaHX+//ESnHRUrtB9AglkPwMXADYyzUInAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":3});
 ;// CONCATENATED MODULE: ./assets/Path.png
-/* harmony default export */ const Path = ({"src":"/_next/static/media/Path.a6a3cfe0.png","height":18,"width":21,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAAJFBMVEVMaXH///////////////////////////////////////////9tKdXLAAAAC3RSTlMAuZZMz2d97CMzDSbYAVAAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAwSURBVHicJYrHEQAgEIS4aNj++3VUPvAALrvtuUwORKYpiJS3xsRHlfQXk/oFyycHFyMAzQjY8lEAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":7});
+/* harmony default export */ const Path = ({"src":"/_next/static/media/Path.a6a3cfe0.png","height":18,"width":21,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAAKlBMVEVMaXH////////////////////////////////////////////////////m1kuZAAAADXRSTlMAApdqvEwnzu6C2wyvfbQm7gAAAAlwSFlzAAALEwAACxMBAJqcGAAAADJJREFUeJwVyrcRACAQBLF9i73+22WIlAgw48T9ECkHao9UUUO+NBufEVLyb0oLDKO9eR+dAQf5IKOHAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":7});
 ;// CONCATENATED MODULE: ./components/Ask.tsx
 /* __next_internal_client_entry_do_not_use__ default auto */ 
 
@@ -1713,11 +971,11 @@ const Ask = ()=>{
 // EXTERNAL MODULE: ./node_modules/react-multi-carousel/index.js
 var react_multi_carousel = __webpack_require__(8801);
 ;// CONCATENATED MODULE: ./assets/co.png
-/* harmony default export */ const co = ({"src":"/_next/static/media/co.4bebadc3.png","height":234,"width":300,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAMAAADJ2y/JAAAACVBMVEXf9v/v///e9//hdNgyAAAAA3RSTlMeARNxazo7AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJUlEQVR4nC3KwQnAQBDEMHn6L/rYkJ8wllVmqskf8onB4bh79gAEywArR3BOdQAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":6});
+/* harmony default export */ const co = ({"src":"/_next/static/media/co.4bebadc3.png","height":234,"width":300,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAMAAADJ2y/JAAAACVBMVEXf9//o///e9f8C7YqWAAAAA3RSTlMeARNxazo7AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJUlEQVR4nC3KwQnAQBDEMHn6L/rYkJ8wllVmqskf8onB4bh79gAEywArR3BOdQAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":6});
 ;// CONCATENATED MODULE: ./assets/butterfly2.png
-/* harmony default export */ const butterfly2 = ({"src":"/_next/static/media/butterfly2.187026f5.png","height":210,"width":368,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAMAAABPT11nAAAAHlBMVEVMaXGN0b6V1sW6ycnwvNbqscbzrsO/3+nso9r4mKECXVqHAAAACnRSTlMAFCMLY4rkGCp1hmiCoQAAAAlwSFlzAAALEwAACxMBAJqcGAAAACVJREFUeJxjYGBlYQADTjZWCIONhZEJzOBgZmBnZmCGcBgZGZkABx8ASj4zaYgAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":5});
+/* harmony default export */ const butterfly2 = ({"src":"/_next/static/media/butterfly2.187026f5.png","height":210,"width":368,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAMAAABPT11nAAAAIVBMVEVMaXGEzr6b2cu4x8/vvdjzrsOe1dX2mKHsp9nquNjqqrVexcc3AAAAC3RSTlMAFB8KY+YldSmKion6L6gAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAmSURBVHicY2DgYmEAA3ZWTgiDlYWRDczgYGZgYmZgZgJzGBkZmQAIDgBOfsMhVQAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":5});
 ;// CONCATENATED MODULE: ./assets/giraf.png
-/* harmony default export */ const giraf = ({"src":"/_next/static/media/giraf.a445327e.png","height":396,"width":217,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAMAAADp7a43AAAAP1BMVEXgo0m/vz/dmz29oXffmn7lu2DrskxMaXHXrG/mq1PpsUXnpUivk3Xnr0jFl2GhgE/304TpqT3uu3f6z3D3x1pI2tAiAAAAEnRSTlObBKliPFf9AMBHO3jBxMeDr2swxu36AAAACXBIWXMAAAsTAAALEwEAmpwYAAAALElEQVR4nAXBhQEAIAzAsCJjuAz+v5UEVygollFvmTpi5CRR2rsC6W7W7OEDFFIBJnmsZPoAAAAASUVORK5CYII=","blurWidth":4,"blurHeight":8});
+/* harmony default export */ const giraf = ({"src":"/_next/static/media/giraf.a445327e.png","height":396,"width":217,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAMAAADp7a43AAAAP1BMVEX/vz/mpVHnqn/cmTzprEvRrnHopkPYrW/ntlXeokXot06wlHbZknv304Oif1HFlmHor0ntu3f60HD4yFrysEsfgIYQAAAAEXRSTlMBmjaoQGFxwE2b+sJEr4TJw1ejjM4AAAAJcEhZcwAACxMAAAsTAQCanBgAAAArSURBVHicBcGFAQAgDMCwImMMt/9vJYHoMthWCFuJq3lSyZDuEeydzphVPhJDAR1DdflTAAAAAElFTkSuQmCC","blurWidth":4,"blurHeight":8});
 ;// CONCATENATED MODULE: ./components/Carouseltwo.tsx
 /* __next_internal_client_entry_do_not_use__ default auto */ 
 
@@ -1880,19 +1138,19 @@ const Carouseltwo = ()=>{
 /* harmony default export */ const components_Carouseltwo = (Carouseltwo);
 
 ;// CONCATENATED MODULE: ./assets/Vector1.png
-/* harmony default export */ const Vector1 = ({"src":"/_next/static/media/Vector1.eb2a126e.png","height":96,"width":253,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAG1BMVEVnc91MaXFlcdljcNdfbtZjb9dibtVmc9tkcNUoZKfMAAAACXRSTlP9AN/5IrOGxz32ZnOrAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIElEQVR4nAXBgQEAIAjDsHYD9f+LTXCSUTmBu0+gpd0PAz8AP9o6g/IAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":3});
+/* harmony default export */ const Vector1 = ({"src":"/_next/static/media/Vector1.eb2a126e.png","height":96,"width":253,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAIVBMVEVMaXFkb9djb9ZjbtVkcdlpduFibtVmc9tkb9ZkcNlnc90pLelxAAAACnRSTlMA+bQh2vKGx+c95lf7sAAAAAlwSFlzAAALEwAACxMBAJqcGAAAACFJREFUeJwFwYcBADAIwzCH1ZL/D0aC/JUAU/aLhbYkKw4FAQBiQXHHDAAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":3});
 ;// CONCATENATED MODULE: ./assets/Vector2.png
-/* harmony default export */ const Vector2 = ({"src":"/_next/static/media/Vector2.d0819892.png","height":62,"width":163,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAG1BMVEVjcNdwk9todN9lcdtjbtZgcNhicNVjb9Zjb9fHBZMtAAAACXRSTlP2AfzUsyGG50C94datAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIElEQVR4nGNgZGVnZmVkZGRgY2ZiYmbhYGRgYmIAARYAA/QAPmPUQFwAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":3});
+/* harmony default export */ const Vector2 = ({"src":"/_next/static/media/Vector2.d0819892.png","height":62,"width":163,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAG1BMVEVjcNeCgtVndN9lcNljb9VibNNicNVic9VmctxrOG/HAAAACXRSTlP2AfzesiOGPslPjVEiAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIElEQVR4nGNgZGVmZmVkZGRgY2Zi4mBhZ2RgYmIAARYAA8oAPio7/u0AAAAASUVORK5CYII=","blurWidth":8,"blurHeight":3});
 ;// CONCATENATED MODULE: ./assets/Vector3.png
-/* harmony default export */ const Vector3 = ({"src":"/_next/static/media/Vector3.cb8da3d7.png","height":60,"width":157,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAIVBMVEVMaXFjb9dib9hlcdhlcdpkcNdjb9dib9VodOFkbdpnc92XI0DjAAAACnRSTlMA+jHC2+iuh/IceYVQnAAAAAlwSFlzAAALEwAACxMBAJqcGAAAACFJREFUeJwFwYcBADAIwzAH6PL/B1eCWvMAzmjvgmui6Q8FIQBr0Rep7gAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":3});
+/* harmony default export */ const Vector3 = ({"src":"/_next/static/media/Vector3.cb8da3d7.png","height":60,"width":157,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAG1BMVEVmc91MaXFkcNdkcdljbt1jb9ZkcNVibtVmctxeAMsqAAAACXRSTlP9APPaIbM9hsjVXUQtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIElEQVR4nAXBhwEAMAjDMDuM9v+LkbBTrfIK/qxAApkDA1gAO1yhMcEAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":3});
 ;// CONCATENATED MODULE: ./assets/sun.png
-/* harmony default export */ const sun = ({"src":"/_next/static/media/sun.e81179a6.png","height":162,"width":155,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAVFBMVEXy04jyzHP26K7r3Jvx1ojqw2rvxGtMaXH035zz1Ybvv2TrvmL33Jj3343y037y2pH014Pz0ov64Yzz1Yn824HnuWLuw2L//6r14pX02a/2wm3/66IQwiiBAAAAGnRSTlMLYf4ZElMfAC4lhqlUO7j8SM96b/0s9QP6/q6W2ywAAAAJcEhZcwAACxMAAAsTAQCanBgAAABCSURBVHicBcEHAsAgCASwQ0XA3V3t///ZBI9cUS0KQh1UqAIYrbtWFJpWd+7wsLzeOXdFpPv8NvaAcU4cABGzGiA/YNAClaL5CFsAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":8});
+/* harmony default export */ const sun = ({"src":"/_next/static/media/sun.e81179a6.png","height":162,"width":155,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAVFBMVEXu1YbxynLz3ZLqvmbyynP55qr1561MaXHz1Yn1357z1Iby1YDuv2TsvmL23JfuynbywWjy03732Yv64Y3y0Yvz14vy26v62X7//3/32bT/6qD2xmzEOX8uAAAAGXRSTlMMYvtUHiz+ACUTNk2GqVUt+blEec9u/P0EZPgJeQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAEJJREFUeJwFwQcCwCAIBLBTQcCt3e3//9kEt3RiJYGt5ZpLAPL0cTZGL8PHeBi0fv58Nga5cb17IEBDLdkAEdVkkB9bewJ702kFwgAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":8});
 ;// CONCATENATED MODULE: ./assets/animal.png
-/* harmony default export */ const animal = ({"src":"/_next/static/media/animal.34e1a93b.png","height":706,"width":831,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAAY1BMVEVMaXF1d9zLkY6PhIxvetVod9+ZiaMpPCbCq6ReduI1PywzSSwzW/96hNl4e8NfceGElsdTR3m7momAlrBcdEKZeX9kaKpojdmKdZ62sndof223wqNzf+GLn1atyJGkt5KjsHPXmKmoAAAAHHRSTlMAKv76qprnSf4bKE4ZG9Lj4T3+6mv263Ph/HD8TvCtOgAAAAlwSFlzAAALEwAACxMBAJqcGAAAAD1JREFUeJwVwQUSgDAQALGtXgUo7vb/VzIkAFXkF61vXA24s/fFglpnY4ZWsYQQtJ469vt43u0aSVlEJKcPOsoCaeaEzeYAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":7});
+/* harmony default export */ const animal = ({"src":"/_next/static/media/animal.34e1a93b.png","height":706,"width":831,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAAWlBMVEVMaXFzdtlieFaQhIxHZvB2f9+ZiqJredwuSTMlMRnIkI03QS2rr3N5e8Nxe9NgceG7momFlsdVSHuBl66YeoBlZ6rDrJ+1v6JnjtiKd528p6SmvpBzf+GJnFUPQilWAAAAGnRSTlMAK234GRznnklJ/Sf+0rDj/uA86fTq+/xx4TcsOKkAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA9SURBVHicFcEHEoAgEACxpR5NsWJB//9NxwTAWn5u9IM4QJ7JVwF17cass+K8W0tpW9D96KW8mhxjDCHkDzmQAktyNPSjAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":7});
 ;// CONCATENATED MODULE: ./assets/mail.png
-/* harmony default export */ const mail = ({"src":"/_next/static/media/mail.22f957a0.png","height":34,"width":34,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAJFBMVEX///////9MaXH///////////////////////////////////8ZR3RTAAAADHRSTlN//wCXg7xk1mEoYxa98dAtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAMUlEQVR4nDWLQQoAIAzD0q26+f8Py0BzCoEQD2In5A46l7SysabIIFVJjAxwbLAPf78XcwCjspNZpwAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":8});
+/* harmony default export */ const mail = ({"src":"/_next/static/media/mail.22f957a0.png","height":34,"width":34,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAIVBMVEX///////////9MaXH////////////////////////+/v7nN4qTAAAAC3RSTlOA/5cAugTWYShkZTnmD8gAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAxSURBVHicNctLDgAgCAPRKYKi9z+wwc9bTZqU9hDTwFYwzCW3AapFgNS7bhRIjuTfNxhEAJqJCHodAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":8});
 ;// CONCATENATED MODULE: ./assets/animalgroup.png
-/* harmony default export */ const animalgroup = ({"src":"/_next/static/media/animalgroup.7fda812f.png","height":280,"width":360,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAMAAADJ2y/JAAAAYFBMVEVMaXFgZNeciJ1fctJmctiYh4yQibJ8lGFmcuZpe9fXrItoklBYWzZcg8qjmJr/6Xxwg9JvfNyrh4udmL+1qKxndt9jcNZQakFvh11wc8WQe4vh1bq3nJOdi2PLyru1wrES50m2AAAAHHRSTlMAIvUUX/Lktwre/r4/QfcvuOj7YTuI9Fm3rPP+hLYVLwAAAAlwSFlzAAALEwAACxMBAJqcGAAAADlJREFUeJwFwYUBwCAQALFDHy11l/23bEIwytq5gVmG28cJOFbtYh+o+nRj5xX1u96UnkIR2bPk7Qc36QJT077gwQAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":6});
+/* harmony default export */ const animalgroup = ({"src":"/_next/static/media/animalgroup.7fda812f.png","height":280,"width":360,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAMAAADJ2y/JAAAAYFBMVEVujVVue81db9Odh51we9yPibJZYdBMaXGUg4xycuZVY0B9k2Shl5v/5Hqelr1hetGypa6siIthb9lreNTRqIljcNdneN3Xq4pRe7He0rhriuRRVjC3m5ObiWLJx7myvq9n8ye+AAAAHHRSTlO5shTz4+MjAPIKT7P2MGLePPlZZv70iP1I/jk1iPy6dAAAAAlwSFlzAAALEwAACxMBAJqcGAAAADlJREFUeJwFwQcCgCAMALFjtoCKe4///9KEZOM09q1gV38H3wliFqfVJE6nOjQhsn/HO29P5qJAIf86dAJCsxtnywAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":6});
 ;// CONCATENATED MODULE: ./components/Commingsoon.tsx
 
 
@@ -2098,15 +1356,17 @@ const Commingsoon = ()=>{
 /* harmony default export */ const components_Commingsoon = (Commingsoon);
 
 ;// CONCATENATED MODULE: ./assets/buter.png
-/* harmony default export */ const buter = ({"src":"/_next/static/media/buter.8925e238.png","height":178,"width":208,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAAPFBMVEVMaXHbuODko8/3XqGQ18iY2tHtr9SX2cvVwuuf38zrptTrdaPth7j1kavvu9DmvdrdyurnqsvfpNPvkbcRhLzhAAAAFHRSTlMA1f0gID04EgMaa7bH6cJpoJrAh2jZ56oAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA4SURBVHicLclbDgAREAXRQnM187b/vQqZn8pJCiy7uypI/KmUG9t4gmVo4b1iEpQvnj35WsfANAEi/QE5yzZV5QAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":7});
+/* harmony default export */ const buter = ({"src":"/_next/static/media/buter.8925e238.png","height":178,"width":208,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAHCAMAAAACh/xsAAAAP1BMVEVMaXHtsNflpdHpwd2q3d2n7ueY2tGQ0ryU4svss7P7XqTuptbWqtnmv93fyurnqMrfo9LrdaT2k63tiLnvkbcleE4UAAAAFXRSTlMAOP3HDxk9HxMDIGvgaaGaxLnqy4czLa7LAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAOUlEQVR4nB3JWw6AIAxFwQO03IIPFNz/Wo3+TTKg6lI0CAMsgEY60I+zqMK2j5J7QLryvLt/tR7cXiLqAUqicqhcAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":7});
 ;// CONCATENATED MODULE: ./assets/clouds4.png
-/* harmony default export */ const clouds4 = ({"src":"/_next/static/media/clouds4.9cf9ab7f.png","height":169,"width":365,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAMAAACEE47CAAAAHlBMVEVjbtVgdtZkb9Zib9VkbdFjb9Zjb9Zkb9Vib9RodN+P24CSAAAACXRSTlPXA+yiHMC7gk6f3t8eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAJUlEQVR4nB3GsREAIAwDsbedBNh/YQ5UCe2ekkSA9fI5RTK2T18FlABSs+VOtwAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":4});
+/* harmony default export */ const clouds4 = ({"src":"/_next/static/media/clouds4.9cf9ab7f.png","height":169,"width":365,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAMAAACEE47CAAAAJFBMVEVjbtVogsxjb9Zjb9Vhb9Rjb9VjbtVjb9djb9VkbtZjbdNodeCM8IV6AAAAC3RSTlPUAeO+F/OgooCoTSgnuOAAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAnSURBVHicFca3EQAwDAOxF6ngsP++PqMCeeyMCBq0fgSgSXZbVdcPBskAahePWlUAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":4});
+;// CONCATENATED MODULE: ./assets/boy.png
+/* harmony default export */ const boy = ({"src":"/_next/static/media/boy.e243d15d.png","height":330,"width":247,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAbFBMVEXDaZbjqqrQf7biycnidXzonJvfocDii5G2pJ4ZJklZXGi3gJ1qbXdBTm6RiIQwPFg6TnjWtbLivL3uwbXadILbXGibrvzNh8OAuP6Zl+7MbqTzkG64t+atqMqqiZ2DfHzxl57YWGbUtt7Wu+0OI1X7AAAAHnRSTlMEWKHM+/Qo+vodU/r09P7CmfeRbL7j/cpll40X+/PoDmGfAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAO0lEQVR4nAXBBQKAIAAAsQNJC8EurP//0Q26JnjwdXuVkKJzhUFbbW/BoNQz7ohc5XOhf6fjW0HOcjM/QpQCv3P9rfsAAAAASUVORK5CYII=","blurWidth":6,"blurHeight":8});
 ;// CONCATENATED MODULE: ./assets/Vector4.png
-/* harmony default export */ const Vector4 = ({"src":"/_next/static/media/Vector4.22c24a45.png","height":111,"width":290,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAGFBMVEWLlepMaXGLleuLluySku+MlOyKluyPl+8cOytkAAAACHRSTlN8AHCHEFpEINq14Q0AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAfSURBVHicBcGBAQAwCIMwSnX+//ESMjpJeLbuBYrAfgM5ADj76mK9AAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":3});
+/* harmony default export */ const Vector4 = ({"src":"/_next/static/media/Vector4.22c24a45.png","height":111,"width":290,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAGFBMVEWKlOtMaXGKleqLleqJleyOlvCLlO6JlOvMiIA0AAAACHRSTlN7AG+EWREfQ3J342EAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAfSURBVHicBcGBAQAwCIMwaHX+//ESXLIqlzbzhBJgPgMxADYtjqVQAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":3});
 ;// CONCATENATED MODULE: ./assets/butter2.png
-/* harmony default export */ const butter2 = ({"src":"/_next/static/media/butter2.a58df5b1.png","height":90,"width":91,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAQlBMVEVdqMGU2Mr4lLv3tsaB1Kzoja+Cy8OJ3L6t6+LUwOHdvdzvqM7tirvjp9bPptbzrMb1h6Drdajdyujjpdblv9vRscT5Id+pAAAAFnRSTlMBODwfFgcfChwTovje5PmxzILrzmw8ymdywAAAAAlwSFlzAAALEwAACxMBAJqcGAAAADxJREFUeJwVyEkSwCAIAMEBQUDNnv+/NZU+Nr1nWgBI4dYDAtyx/xhvCFRr9zChtv2YyxP0medVCehSMj4t6gF7P6hJ3wAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":8});
+/* harmony default export */ const butter2 = ({"src":"/_next/static/media/butter2.a58df5b1.png","height":90,"width":91,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAP1BMVEV+lbLoqc7dvtz2jLOK2bjvutCX1M6W3NDDrbqg1MrtirmM1bvQp9f3msnzrMblvdn2h57jpNTrdajdzOnxpdMbC2MRAAAAFHRSTlMB66M3Fxo8HggP3jH5R7FtzM6C6y3F+d0AAAAJcEhZcwAACxMAAAsTAQCanBgAAAA8SURBVHicFchJDsAgDATBBmzGJgvZ/v/WCKlOhSRZAnQjUgFLYOuoMzdI97dax8t+lhGC4/6uJwW00VD8MFkBhLVQvA8AAAAASUVORK5CYII=","blurWidth":8,"blurHeight":8});
 ;// CONCATENATED MODULE: ./assets/cloudmob1.png
-/* harmony default export */ const cloudmob1 = ({"src":"/_next/static/media/cloudmob1.9292b019.png","height":54,"width":143,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAFVBMVEWLletMaXGKl+mMluuKluuMleyNle95JawrAAAAB3RSTlOAABNwVWZByQYcGAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAB1JREFUeJxjYGRiZmViZGRkYGNmYGBlYWJkgAIWAAK1ACqEWwhZAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":3});
+/* harmony default export */ const cloudmob1 = ({"src":"/_next/static/media/cloudmob1.9292b019.png","height":54,"width":143,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAGFBMVEWLlutMaXGMluqRnu2LluqMluyMmO6LkuuXn/ajAAAACHRSTlODAH0TcGZUQpvPjDcAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAgSURBVHicBcGBAQAwCIMwaNX9//ES7GxV3sBeJSQh9wEDdAA+1MNcpQAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":3});
 ;// CONCATENATED MODULE: ./components/Videosec.tsx
 
 
@@ -2276,13 +1536,13 @@ const Videosec = ()=>{
 /* harmony default export */ const components_Videosec = (Videosec);
 
 ;// CONCATENATED MODULE: ./assets/connection.png
-/* harmony default export */ const connection = ({"src":"/_next/static/media/connection.860b2c7a.png","height":130,"width":130,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAb1BMVEUKDAsVCwWNkZNnZ2V8d3MUEQkAAAALCgcWFAoZExQODQZBR0uNi4mssLUPIhhOS0Z0eXyYlpm+W0vCXEymqa5nbGVAQD1RYjhidEA0NDBdaGxPUU+UhX1DkqdCi6CurKWidW6top6MqGtcqL2QhoNq91jJAAAAH3RSTlNaGNCq/I9GZIB0QWfs8Ci54dru7cXOlr+90tSE/o+oV+gE7gAAAAlwSFlzAAALEwAACxMBAJqcGAAAAEVJREFUeJwFwYUBgDAAA7DOfbjLjP9vJAERqmNKamjQlHopAPCcB2NhlZlGA4KLe+c8XxHuQufyBZytHazWBfF9lN72+ANuVAPMDQafTAAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":8});
+/* harmony default export */ const connection = ({"src":"/_next/static/media/connection.860b2c7a.png","height":130,"width":130,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAdVBMVEUTEQiNkJM/RkmrrrQHAwB7d3IUCwUHBwQOEBALCgpkbGmRhH8SIBkcGhBQTEdua2t1enuYlZggFxcdGRu+W0vCW0uNioelqa1iZF+Oi4pjdkE/PztSZDc0NDFEkKZDjqFNT02tq6SgdG2roJ1eq8CNqWmPqm8PVO/8AAAAIXRSTlOJ0GbvaPwYRFph0/4rf7qm4dp3eO3t68Wy68KVxtSWroPQ7D0QAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAR0lEQVR4nAXBBQKAIBAEwAWBo+xuCf3/E52BgqhqQ0CpWQgNAdrIGFtBINOPQ6cVHrlyPskdhUtsTq6AzflcvtfC35fAsfkfd9wD5keVolEAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":8});
 ;// CONCATENATED MODULE: ./assets/easytouse.png
-/* harmony default export */ const easytouse = ({"src":"/_next/static/media/easytouse.f9284561.png","height":130,"width":130,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAbFBMVEVMaXF4bR9KQEyWiil5j5Vne4YySTwNDw+GfjsSIRxwZhRlkXpflnqHfzt4kJ5rfYdneYZ5s5dmmIFhjHZNXVdVhXfCtqpxrJHHwa1TfGeOlolhtItxaB2AuZp6k36OqrackkOPhjupsqOZ3rjYexDFAAAAHXRSTlMA7Qz4/vo+FfwtlP237NzM5+Dx2qH7/ub7qP7C/pWLMwAAAAAJcEhZcwAACxMAAAsTAQCanBgAAABHSURBVHicFchHEoAgEATAIblLUMwRMP3/j5Z9bFDwQwUAW/alIwBLmff8V3jXp7eSYI/JmNZESBq11mcDd/PFXFs4lZRIgj54+gNL3Kx+uwAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":8});
+/* harmony default export */ const easytouse = ({"src":"/_next/static/media/easytouse.f9284561.png","height":130,"width":130,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAclBMVEVNTW07OkSKgj2VijIYHhs0SDx7cSANFBR4jZVneoZmknsAGQzFvKxgl3tqfId3kJ9oeIZ6s5Z+vJ5nloBijXhNXVhvZBN2bhlVhXZvrJCPlolhs4tTfWiHfzx2bB56lH+Mp7SglkWbjyupsaKCtpiZ37hB6pbAAAAAH3RSTlMBDfL6Mj/uFP76/SH8t8vb5uH98Nqhk5T75v3EqP7+5eK2cQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAEdJREFUeJwVyFUWgCAUBcBLyCPtVsDc/xY9zueAgu0LANgfmxsCsGS/tn+F19+dZAS3zcbUpgRzg9b6qDAJfsbIJcYrCZUUfXqxA5SuutX6AAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":8});
 ;// CONCATENATED MODULE: ./assets/network1.png
-/* harmony default export */ const network1 = ({"src":"/_next/static/media/network1.8d99f202.png","height":130,"width":130,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAZlBMVEVMaXF/ZkMyQTVZcn1oe0gSEQksGQVUQlQ8LxoBCRFJYEN4ilAVZJeDm1cTXI5gcEQnM1VGVzRFWpsZIjpzWC5tkZ4/VV+pg0U5HR9PHR+Cb25AfaCxl2dMhpm2qm2lJiZvg46TcD/MIJ7RAAAAGnRSTlMA9yn3y0IsAwhN6TnX5MO/m8T8ds+KfYyjzRL8Q5MAAAAJcEhZcwAACxMAAAsTAQCanBgAAABDSURBVHicHctHEoAgEADBAYFdzDnH/3/S0r43AsKQjCCCvdeEzFU+LtdMsZ9ONSjpdjSqVoh56WP/THwpmNXw97rtXmRmAsRI28J/AAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":8});
+/* harmony default export */ const network1 = ({"src":"/_next/static/media/network1.8d99f202.png","height":130,"width":130,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAYFBMVEWAl4JJYEJ2jFOEm1cVYZEREAlYcnw2MSABCREoLStoeEtgcEQ/KgooM1ZGVTRpgEYdIzdzVy5uk6KrgkQ5Gh5OHBx9Yz5AV2FGgpyLbESDcG6xl2e2qmxHXJ5ugo2lJiVP+ftRAAAAGHRSTlMB6Trlz0T3B00p0sEwn8TGe8yKiaHM7n6YAT9NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARElEQVR4nB3LRxaAIBAE0VaBnjGCETDd/5Y+qdXfFPA3uwMgoU92qNvOyvauaM5rIpWoYhxJBcQYKyEtZepT3gsw3P4DWqYCl+mQ0E0AAAAASUVORK5CYII=","blurWidth":8,"blurHeight":8});
 ;// CONCATENATED MODULE: ./assets/designthinking.png
-/* harmony default export */ const designthinking = ({"src":"/_next/static/media/designthinking.338208fb.png","height":130,"width":130,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAclBMVEVMaXGHfWdfZGsra1hhY2kAAACPkZMrIx1CRUoMAABLQipMRTVXVEyAZRmKi4uPQzm1ucB7fX55fH11dXm7tp5yOzScmIizqohgY2qhnG8dIx1/b0NoURdUQA18ZBTLztOUiGHSvYSFh4HZzpHMuH96ZSc1VdO0AAAAH3RSTlMA/sPPghT6Q5gdUDX39LzN/J+3cf7I/PyU/E724HO3c49yIwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAEVJREFUeJwFwYUBwCAQBLDDve72UNl/xSaAD4DjCwzp1oyao6OGWBYOfTVM87MBMCXncniomq3v/l2Qt4gxpRNWKmtdwA+FEAPS8TSNMAAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":8});
+/* harmony default export */ const designthinking = ({"src":"/_next/static/media/designthinking.338208fb.png","height":130,"width":130,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAeFBMVEVMaXGIfmeRhmJPSTULAgCBgoQAAAAlHRVCPC5BRUpZVk2AZRlnX2VcaW21uL99fn6PQji6tZ2XmJp1d3lhZGqblodzPjVhZm2ajF+zqIgpcl1fZm0tY1WjnW/Lt39/cERmUhh6YhRVQQ3KzdKIiojRvITZzpJ4ZCdn9KfYAAAAI3RSTlMA/v44HrkURk2e9/aFh/yhy/70b8b7yZX+/NK9y/v+9t+3dZsTX+oAAAAJcEhZcwAACxMAAAsTAQCanBgAAABGSURBVHicBcGFAcAgEASwQx+puxvQ7r9hE8AIQHYjTGhKGuIKFYrA+CbRqrqfXwJAaeLpMtAV24/zu5HFxTnvH9hcWysFfozPA/oIctLwAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":8});
 ;// CONCATENATED MODULE: ./components/Cards.tsx
 
 
@@ -2523,15 +1783,15 @@ const Cards = ()=>{
 /* harmony default export */ const components_Cards = (Cards);
 
 ;// CONCATENATED MODULE: ./assets/tree1.png
-/* harmony default export */ const tree1 = ({"src":"/_next/static/media/tree1.4ed3696a.png","height":343,"width":312,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAMAAAAC2hU0AAAAVFBMVEVMaXHwznmEnFi7tndSiVJwmU2pyoNSe06NqVuBsWVbhETRx3aeST2HtIelrWavzYNnnVymxXu9wGu90YaZvmeUw2640YChx3CfsljH0XRVlk5ig0osHwdFAAAAF3RSTlMAad8xyf1UHv7x4ZdCEfKG4sb938Hj1MXt+9wAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA8SURBVHicY2ATEWNjYGBgEBUXFxbkZ2Bg5eQQEpfkZpCW4mDlkOBkYBFg4eNiYmTg4WVgZmcHqYQAKBMATuMB3wFt4jwAAAAASUVORK5CYII=","blurWidth":7,"blurHeight":8});
+/* harmony default export */ const tree1 = ({"src":"/_next/static/media/tree1.4ed3696a.png","height":343,"width":312,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAMAAAAC2hU0AAAAWlBMVEVMaXGoyYPuz3m4uHd6mlZTiVGMql06bEuLqm2BsmbRxXVchkSaST2mr2eSplakxWVvmESwzoSlxXponly9wWu+0YeUw2+30IGZvmieyHWesVjG0HNWl01igkqMpsjSAAAAGXRSTlMAVmsv8M39HhXwmORC9Pz+/YnI5vvg49XBcdLA5QAAAAlwSFlzAAALEwAACxMBAJqcGAAAADxJREFUeJxjYJQQZ2RgYGAQk5QUFRJkYGDhZBPhl+ZikJVhE+CT4mRgFWbl5WZhYuDhYGDmYAephAAoEwBR2AH1iDbmCQAAAABJRU5ErkJggg==","blurWidth":7,"blurHeight":8});
 ;// CONCATENATED MODULE: ./assets/tree2.png
-/* harmony default export */ const tree2 = ({"src":"/_next/static/media/tree2.aa7b256b.png","height":164,"width":371,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAMAAACEE47CAAAAPFBMVEX/xXjdyXh3iEz/1ISjy3j/xnvwv2Nblkv3zHukuXGUpV28sGFuo1xhlEdJiTvXz4SixG6/1IyDtlGgvGNPIMquAAAAEnRSTlMBJjww+g8k/ku+hpX99/y1j20oj36jAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAKUlEQVR4nAXBhwEAIAjAsKoguNf/v5qwD6oAImW5Z+h2X2kJzOaoMfABEDoA53qouG0AAAAASUVORK5CYII=","blurWidth":8,"blurHeight":4});
+/* harmony default export */ const tree2 = ({"src":"/_next/static/media/tree2.aa7b256b.png","height":164,"width":371,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAMAAACEE47CAAAAOVBMVEX/7Ix1iUuWpVv7yXHww39uoly8sWFclUnxyXajy3mfrGSgw2yfu2L1zYK804qoyH/XzYVJiTqDtlDdVl49AAAAEnRSTlMBPYhIEfyV/Sn7w5L+TnC6tvtui5EyAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAKElEQVR4nAXBBwIAEBAEscGxp5f/P1ZCX5gB1LrPTA5Zb7TiIF3F4HwPxwDezbKUaAAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":4});
 ;// CONCATENATED MODULE: ./assets/bu.png
-/* harmony default export */ const bu = ({"src":"/_next/static/media/bu.05aef203.png","height":188,"width":171,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAMAAAAC2hU0AAAARVBMVEWixsaQ1cvqn87/ra6j5+L9Z6W/5OSt39+HzrOZ0cLxi7Dpqc+Q2sPivtvdv93jwuLfzOvucaPus8ryl7nepNPSqNfznMgLY9IqAAAAF3RSTlMBMP0PIB4YCB0Q4LBFh3HLwJ/XZ8f6Qfv6+bEAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA4SURBVHicBcGHAcAgDASxA2zehvS2/6iRiN4jgWIoQwgQAbCtFNTascfCfOdVXXxPHacb+Lix/AEpdgGGnY1t0wAAAABJRU5ErkJggg==","blurWidth":7,"blurHeight":8});
+/* harmony default export */ const bu = ({"src":"/_next/static/media/bu.05aef203.png","height":188,"width":171,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAMAAAAC2hU0AAAAQlBMVEVMaXHpu9XpqdDyjLCe38b9aqKS0Maa2c+n1dW4z8+O3cbivdvbvt3nlcPdzOvucKL/lGrRp9ffo9L2ncrylbruqdlg/S4gAAAAFXRSTlMA0bDhFx4xHggQRIhz+8CdDPzFP2jODfMTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAN0lEQVR4nAXBBwLAIAwDsQMCdrro/P9XK6FQJDCEU8aACYBtZeA8j6KFetWyd/PcX5td0NuL8gcn+wFzkFJwQQAAAABJRU5ErkJggg==","blurWidth":7,"blurHeight":8});
 ;// CONCATENATED MODULE: ./assets/fox.png
-/* harmony default export */ const fox = ({"src":"/_next/static/media/fox.c4609e30.png","height":314,"width":217,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAaVBMVEVMaXG1v7XvpIOyspmMSTm/xdC1loTix7F/TUXrk2C0RCvesYd5ZDPrz7TVXjuyvnisYTRkLyW1kH7LhlzYbkrit5fs2b3x4tLin3OoTzV8PjHadE7TmXeOlkSFXyztmHPkZEDyxamdRTQTO6YWAAAAG3RSTlMAYdkKUixJ+y7pr+N8QZ/3+2Wr/Hj96r5j48g0v5C5AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAOklEQVR4nAXBCQJAIBRAwYfoR9aylYj7H9IMgvpmCKeJLajorrKCRese6qZ7BijGNGUP9l5fA8i+HT9DaAKLniQ9ogAAAABJRU5ErkJggg==","blurWidth":6,"blurHeight":8});
+/* harmony default export */ const fox = ({"src":"/_next/static/media/fox.c4609e30.png","height":314,"width":217,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAICAMAAADtGH4KAAAAbFBMVEVMaXHto4PGqqqzloSOSjmiSjSzu7Pix7J/T0TCx9K3RCzJhly1kH9kLyWrYDN4YzPu0rbVWjmywHjfsYfx4tLynWvjuZnt2r7ioXXZbkt+PjLni1bSmHfhdUuFXizul3ONlUTlZED0yKvPcFDG064HAAAAHHRSTlMA1glHUfRi+y0usv2qZft9P6D3473m/eliesvuoS/MOAAAAAlwSFlzAAALEwAACxMBAJqcGAAAADpJREFUeJwFwYcCQCAAQMGHFpU9IiP6/390h0FID4eMVwMi27MowWndQ11NzwBqTO27Q3ev3wKYeQs/PrwCj92fJKEAAAAASUVORK5CYII=","blurWidth":6,"blurHeight":8});
 ;// CONCATENATED MODULE: ./assets/tri.png
-/* harmony default export */ const tri = ({"src":"/_next/static/media/tri.6baf4249.png","height":13,"width":12,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAMAAAAC2hU0AAAAIVBMVEVMaXH///////////////////////////////////////8c1D1MAAAAC3RSTlMA/a+M7m4UMV60sNpfuhIAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAnSURBVHicY2DmYAADLkZOdhDNxMjIwswGphkZWVhRaIg4E1gdVB8AEQsAe4bRcEoAAAAASUVORK5CYII=","blurWidth":7,"blurHeight":8});
+/* harmony default export */ const tri = ({"src":"/_next/static/media/tri.6baf4249.png","height":13,"width":12,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAICAMAAAAC2hU0AAAAIVBMVEVMaXH////////////////////////////////+/v7///9SVKA8AAAAC3RSTlMA/q+LbxPwLl7pnEqTnn0AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAnSURBVHicY2DmYAADJkYmdgjNyMbMCqYZGTlZIDQbhIaIQ9RB9QEADqAAcfIeOAAAAAAASUVORK5CYII=","blurWidth":7,"blurHeight":8});
 ;// CONCATENATED MODULE: ./components/Tablet.tsx
 
 
@@ -2802,6 +2062,253 @@ const Tablet = ()=>{
 };
 /* harmony default export */ const components_Tablet = (Tablet);
 
+;// CONCATENATED MODULE: ./assets/Step.gif
+/* harmony default export */ const Step = ({"src":"/_next/static/media/Step.a1f9481d.gif","height":1617,"width":800,"blurWidth":0,"blurHeight":0});
+;// CONCATENATED MODULE: ./assets/phone.gif
+/* harmony default export */ const phone = ({"src":"/_next/static/media/phone.ed3b0808.gif","height":1210,"width":600,"blurWidth":0,"blurHeight":0});
+;// CONCATENATED MODULE: ./assets/Step2.gif
+/* harmony default export */ const Step2 = ({"src":"/_next/static/media/Step2.7e5d1f47.gif","height":1212,"width":600,"blurWidth":0,"blurHeight":0});
+;// CONCATENATED MODULE: ./assets/Step4.gif
+/* harmony default export */ const Step4 = ({"src":"/_next/static/media/Step4.915c371c.gif","height":1211,"width":600,"blurWidth":0,"blurHeight":0});
+;// CONCATENATED MODULE: ./assets/book.png
+/* harmony default export */ const book = ({"src":"/_next/static/media/book.cdab5b74.png","height":104,"width":163,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAMAAABPT11nAAAAWlBMVEVMaXHulInglJrAtpWava3IyYZyzJZiwYV1z6D9tZN5tLmbu7N9zo/eZVluwKL9iH3odmJOvJNjn5fRZHW6t6ZvwKvpcFzddnf7mXXxoZJTy6yM2s36rXXxg4NP4yqnAAAAGXRSTlMAxrD1+xm06P7++NSOftioof1APdlJ/edOnXc6qgAAAAlwSFlzAAALEwAACxMBAJqcGAAAADVJREFUeJxjYBBlY2Nn52FlkBCR5uAQlOJjYJRh5mJh4RZiYJIVk+Tk5GdgYGUSZxTgFWYAACp/Ad7uwmJyAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":5});
+;// CONCATENATED MODULE: ./assets/cloud.png
+/* harmony default export */ const cloud = ({"src":"/_next/static/media/cloud.7bfeef7e.png","height":261,"width":1728,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAABCAMAAADU3h9xAAAABlBMVEVLS9yIf8RY0QWxAAAAAnRSTlMBCo9dFWcAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAOSURBVHicY2BkAAFGRgAAFAAEIe9+VwAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":1});
+;// CONCATENATED MODULE: ./assets/butterfly.png
+/* harmony default export */ const butterfly = ({"src":"/_next/static/media/butterfly.a3c379c0.png","height":188,"width":344,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAMAAACEE47CAAAAHlBMVEVMaXGh3tOQ3t6S1cHEwM/wpL7qq7T2qb/otdfwtMgaxxBTAAAACnRSTlMADwcbIlKW0WisrZbBEQAAAAlwSFlzAAALEwAACxMBAJqcGAAAACVJREFUeJwdyEESACAIA7FtAdH/f5jBHAP1+E5fAyKLBGvTImIABUYAQGvQTLwAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":4});
+;// CONCATENATED MODULE: ./assets/wave.png
+/* harmony default export */ const wave = ({"src":"/_next/static/media/wave.2f3b95bc.png","height":260,"width":1730,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAABCAMAAADU3h9xAAAAFVBMVEWb03WLzm2f1Xuc02+Qw2mbxnm13IR4Uvf6AAAAB3RSTlOKo9H967DyNNKm/gAAAAlwSFlzAAALEwAACxMBAJqcGAAAABFJREFUeJxjYGFmY2JkYGAFAAB1ABaVqaPHAAAAAElFTkSuQmCC","blurWidth":8,"blurHeight":1});
+;// CONCATENATED MODULE: ./assets/boy1.png
+/* harmony default export */ const boy1 = ({"src":"/_next/static/media/boy1.4531d0e9.png","height":197,"width":355,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAECAMAAACEE47CAAAAQlBMVEWSm6vqsY1mhr61lYt+puCaortaf9PL39+kio91Oj7dgFBYLDvBnYrwp3KchIrRdEmBUlR7k9Gvqa6JVlXUvLBQg+KVepYiAAAAFHRSTlMC+anvtFtMEjQli1an8Ohl4ubIvzzIzmgAAAAJcEhZcwAACxMAAAsTAQCanBgAAAApSURBVHicBcGFAQAgDMCwohvu/79KAlDmSSBB6nVJUNub2d4DOvJ68QMRQQEL+GhT1QAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":4});
+;// CONCATENATED MODULE: ./assets/girl.png
+/* harmony default export */ const girl = ({"src":"/_next/static/media/girl.8e383bb2.png","height":173,"width":216,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAMAAADJ2y/JAAAAXVBMVEW1maVOSmykmZf/28Pn7PjQubjdu6+JU2TgkKRyZnF2bIaDmcHtoqt7XWhBUHIAJFu9ravDl5/IvMnL2+3Z1tu+u7ujrsekjIfGr8AtLUnBssS1q8K+r6hfV3bw1sPwdA3rAAAAHHRSTlMBuvsr+sMtJ1/988jaXbIO5IDrzvz4cuqea0baqJd4lgAAAAlwSFlzAAALEwAACxMBAJqcGAAAADlJREFUeJwVylsWQCAAQMGLUpEeeiC0/2U65nsA9w4eQJnHbNMM19HHxWqoMpRVwylEyu0vUe63gg8zlQH675aYHwAAAABJRU5ErkJggg==","blurWidth":8,"blurHeight":6});
+;// CONCATENATED MODULE: ./assets/girl1.png
+/* harmony default export */ const girl1 = ({"src":"/_next/static/media/girl1.18829ab7.png","height":237,"width":320,"blurDataURL":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAMAAADJ2y/JAAAAZlBMVEVMaXGoqdtYLh4AAAB0p9Tozcmyt7RZLR1YKxvPmIaWum/1zsnOxqDpvbB2qlfge4HItKyMXUqFVTzJoLvdoqTN28HPxdPVtblpOSWNtVjSgpODr1vGdHfMqJxcLRyuyX660P96Tz2gUCImAAAAHXRSTlMAl20JEeFW2ZQV0cJ/Xo7bQdEq3of73naq3+Th++aiORsAAAAJcEhZcwAACxMAAAsTAQCanBgAAAA5SURBVHicBcEJAkAgAADBLd2UW67I/z9phujTERTQdte7GkBvZsmDB1HnXpexQYnzLt8jgWl31rofQMoCd7ZOJfwAAAAASUVORK5CYII=","blurWidth":8,"blurHeight":6});
+;// CONCATENATED MODULE: ./components/Adventurestep.tsx
+// AdventureStep.js
+
+
+const AdventureStep = ({ stepNumber, title, description })=>{
+    return /*#__PURE__*/ jsx_runtime_.jsx("div", {
+        className: "2xl:mt-[30px] 3xl:mt-[30px] xl:mt-[0px]  ",
+        children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+            className: "pl-[32px] xl:pb-24",
+            children: /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                className: "3xl:w-[645px] 3xl:h-[223px] 2xl:w-[545px] 2xl:h-[193px] xl:w-[477px] xl:h-[166px] lg:w-[377px] lg:h-[126px] flex-shrink-0 rounded-lg bg-[#FCFCFC]",
+                children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                    className: "3xl:pt-[65px] 2xl:pt-[65px] xl:pt-[48px] lg:pt-[36px] flex items-center justify-center",
+                    children: [
+                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                            className: "w-[62px] h-[62px] rounded-full bg-[#D68294]",
+                            children: /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                className: "text-white 3xl:text-4xl 2xl:text-3xl xl:text-2xl lg:text-xl font-extrabold flex items-center justify-center pt-3.5",
+                                children: stepNumber
+                            })
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: "pl-6",
+                            children: [
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    className: "text-[#2A2E36] 3xl:text-4xl 2xl:text-3xl xl:text-2xl font-extrabold",
+                                    children: title
+                                }),
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    className: "text-[#2A2E36] 3xl:text-2xl 2xl:text-xl xl:text-base font-normal",
+                                    children: description
+                                })
+                            ]
+                        })
+                    ]
+                })
+            })
+        })
+    });
+};
+/* harmony default export */ const Adventurestep = (AdventureStep);
+
+;// CONCATENATED MODULE: ./components/Adventurepart.tsx
+
+
+
+const Adventurepart = ({ imageSrc, imageClassName, divClassName })=>{
+    return /*#__PURE__*/ jsx_runtime_.jsx("div", {
+        className: divClassName,
+        children: /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
+            className: imageClassName,
+            src: imageSrc,
+            alt: ""
+        })
+    });
+};
+/* harmony default export */ const components_Adventurepart = (Adventurepart);
+
+;// CONCATENATED MODULE: ./components/Videopage.tsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const steps = [
+    Step,
+    Step2,
+    phone,
+    Step4
+];
+function Home() {
+    const [text, setText] = (0,react_.useState)(1);
+    const [gif, setGif] = (0,react_.useState)("/gif1.gif");
+    const [step, setStep] = (0,react_.useState)(0);
+    (0,react_.useEffect)(()=>{
+        const interval = setInterval(()=>{
+            setText((prevText)=>{
+                const nextText = prevText === 4 ? 1 : prevText + 1;
+                setGif(`/gif${nextText}.gif`);
+                setStep(nextText - 1);
+                return nextText;
+            });
+        }, 3000);
+        return ()=>clearInterval(interval);
+    }, []);
+    return /*#__PURE__*/ jsx_runtime_.jsx("div", {
+        className: "flex flex-col items-center justify-center ",
+        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+            className: " 3xl:h-[1110px] 2xl:h-[1110px] xl:h-[720px] lg:h-[620px] bg-[#F8F7FF]  xl:pt-4 relative w-full md:hidden sm:hidden xs:hidden lg:block",
+            children: [
+                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                    className: "relative  ",
+                    children: [
+                        /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
+                            src: cloud,
+                            className: " xl:h-[190px] 2xl:h-[210px] w-full",
+                            alt: ""
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            id: "how",
+                            className: "flex items-center justify-center",
+                            children: [
+                                " ",
+                                /*#__PURE__*/ jsx_runtime_.jsx("p", {
+                                    className: "absolute 3xl:top-14 2xl:top-36 xl:top-10  lg:top-10 items-center text-black 3xl:text-7xl 2xl:text-6xl xl:text-5xl lg:text-4xl font-bold leading-normal;",
+                                    children: "How it works"
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
+                            src: wave,
+                            className: "absolute w-full 3xl:top-[757px] 3xl:left-0 2xl:top-[807px] 2xl:left-0 2xl:h-[214px] xl:top-[523px] xl:left-0 xl:h-[193px] lg:top-[423px] lg:left-0 lg:h-[193px]",
+                            alt: ""
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
+                            className: "absolute 3xl:top-[857px] 3xl:left-[1058px] 3xl:w-[163px] 3xl:h-[104px] 2xl:top-[857px] 2xl:left-[943.01px] 2xl:w-[153px] 2xl:h-[93px] xl:top-[580px] xl:left-[743px] xl:w-[75px] xl:h-[48px] lg:top-[480px] lg:left-[643px] lg:w-[75px] lg:h-[48px]",
+                            src: book,
+                            alt: ""
+                        }),
+                        /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
+                            className: "absolute 3xl:top-[643px] 3xl:left-[83.01px] 2xl:top-[693px] 2xl:left-[103.01px] 2xl:w-[253px] xl:top-[303px] xl:left-[93.01px] xl:w-[243px] lg:top-[343px] lg:left-[43.01px] lg:w-[203px] ",
+                            src: butterfly,
+                            alt: ""
+                        })
+                    ]
+                }),
+                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                    className: "flex items-center justify-center pb-4 z-50 relative",
+                    children: [
+                        [
+                            1,
+                            2,
+                            3,
+                            4
+                        ].map((num, index)=>/*#__PURE__*/ jsx_runtime_.jsx("div", {
+                                className: "pl-28 z-50 ",
+                                children: /*#__PURE__*/ jsx_runtime_.jsx("button", {
+                                    onClick: ()=>setStep(num - 1),
+                                    className: num === step + 1 ? " w-14 h-14 rounded-full lg:w-12 lg:h-12 bg-[#6470D7] text-white font-bold lg:text-sm text-lg border-solid border-[8px] border-indigo-300" : num < step + 1 ? " w-8 h-8 rounded-full bg-[#6470D7] text-white font-bold text-lg" : " w-8 h-8 rounded-full bg-[#DBDBDB] text-white font-bold text-lg",
+                                    children: num
+                                }, num)
+                            }, num)),
+                        /*#__PURE__*/ jsx_runtime_.jsx("div", {
+                            className: `absolute top-[] left-[480px] right-[360px] h-1 ${step - 0 ? "bg-[#6470D7]" : "bg-[#DBDBDB]"}`
+                        })
+                    ]
+                }),
+                /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                    className: "flex justify-center items-center  ",
+                    children: [
+                        /*#__PURE__*/ jsx_runtime_.jsx((image_default()), {
+                            className: "z-50 rounded-3xl border-4 border-solid border-black 3xl:w-[280px] 3xl:h-[517px] 2xl:w-[280px] 2xl:h-[517px] xl:w-[185px] xl:h-[336px] lg:w-[155px] lg:h-[296px]",
+                            src: steps[step],
+                            alt: ""
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: "z-50",
+                            children: [
+                                step === 0 && /*#__PURE__*/ jsx_runtime_.jsx(components_Adventurepart, {
+                                    imageSrc: girl1,
+                                    imageClassName: "xl:w-[147px] xl:h-[110px] lg:w-[147px] lg:h-[110px] 2xl:w-[300px] 2xl:h-[227px] 3xl:w-[320px] 3xl:h-[237px]",
+                                    divClassName: "2xl:mt-[420px] 3xl:mt-[340px] xl:mt-[260px] lg:mt-[160px]"
+                                }),
+                                step === 1 && /*#__PURE__*/ jsx_runtime_.jsx(components_Adventurepart, {
+                                    imageSrc: boy1,
+                                    imageClassName: " xl:w-[171px] xl:h-[96px] lg:w-[167px] lg:h-[96px] 2xl:w-[250px] 2xl:h-[137px] 3xl:w-[355px] 3xl:h-[197px]",
+                                    divClassName: "xl:mt-[280px] 2xl:mt-[480px] 3xl:mt-[380px] lg:mt-[60px]"
+                                }),
+                                step === 2 && /*#__PURE__*/ jsx_runtime_.jsx(components_Adventurepart, {
+                                    imageSrc: girl,
+                                    imageClassName: "xl:w-[154px] xl:h-[124px] lg:w-[134px] lg:h-[104px] 2xl:w-[219px] 2xl:h-[174px] 3xl:w-[319px] 3xl:h-[225px]",
+                                    divClassName: "xl:mt-[280px] 2xl:mt-[480px] 3xl:mt-[380px] lg:mt-[100px]"
+                                }),
+                                step === 3 && /*#__PURE__*/ jsx_runtime_.jsx(components_Adventurepart, {
+                                    imageSrc: boy,
+                                    imageClassName: " xl:w-[114px] xl-[154px] lg:w-[104px] lg:h-[134px] 2xl:w-[150px] 2xl:h-[200px] 3xl:w-[188px] 3xl:h-[253px]",
+                                    divClassName: "xl:mt-[280px] 2xl:mt-[380px] 3xl:mt-[380px] lg:mt-[90px]"
+                                })
+                            ]
+                        }),
+                        /*#__PURE__*/ (0,jsx_runtime_.jsxs)("div", {
+                            className: "z-50 ",
+                            children: [
+                                step === 0 && /*#__PURE__*/ jsx_runtime_.jsx(Adventurestep, {
+                                    stepNumber: 1,
+                                    title: "Start your adventure",
+                                    description: "Speak out your story idea or plot"
+                                }),
+                                step === 1 && /*#__PURE__*/ jsx_runtime_.jsx(Adventurestep, {
+                                    stepNumber: 2,
+                                    title: "Pick your picture",
+                                    description: "Select an image that captures your imagination"
+                                }),
+                                step === 2 && /*#__PURE__*/ jsx_runtime_.jsx(Adventurestep, {
+                                    stepNumber: 3,
+                                    title: "​Enjoy the tale",
+                                    description: "Sit back and listen as the story unfolds"
+                                }),
+                                step === 3 && /*#__PURE__*/ jsx_runtime_.jsx(Adventurestep, {
+                                    stepNumber: 4,
+                                    title: "Keep the magic alive",
+                                    description: "Add another page to continue your story"
+                                })
+                            ]
+                        })
+                    ]
+                })
+            ]
+        })
+    });
+}
+
 ;// CONCATENATED MODULE: ./components/Landing.tsx
 /* __next_internal_client_entry_do_not_use__ default auto */ 
 
@@ -2837,7 +2344,7 @@ const Landing = ()=>{
         className: "bg-uni",
         children: [
             /*#__PURE__*/ jsx_runtime_.jsx(components_Header, {}),
-            /*#__PURE__*/ jsx_runtime_.jsx(Carouselpage, {}),
+            /*#__PURE__*/ jsx_runtime_.jsx(Home, {}),
             /*#__PURE__*/ jsx_runtime_.jsx(components_Commingsoon, {}),
             /*#__PURE__*/ jsx_runtime_.jsx(components_Videosec, {}),
             /*#__PURE__*/ jsx_runtime_.jsx(components_Carouseltwo, {}),
@@ -2877,7 +2384,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(6786);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var next_font_google_target_css_path_app_layout_tsx_import_Inter_arguments_subsets_latin_variableName_inter___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(2981);
+/* harmony import */ var next_font_google_target_css_path_app_layout_tsx_import_Inter_arguments_subsets_latin_variableName_inter___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(1673);
 /* harmony import */ var next_font_google_target_css_path_app_layout_tsx_import_Inter_arguments_subsets_latin_variableName_inter___WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_font_google_target_css_path_app_layout_tsx_import_Inter_arguments_subsets_latin_variableName_inter___WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6495);
 /* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_1__);
@@ -2919,7 +2426,7 @@ var jsx_runtime_ = __webpack_require__(6786);
 var module_proxy = __webpack_require__(7814);
 ;// CONCATENATED MODULE: ./components/Landing.tsx
 
-const proxy = (0,module_proxy.createProxy)(String.raw`C:\els\components\Landing.tsx`)
+const proxy = (0,module_proxy.createProxy)(String.raw`/Users/vikrant/Downloads/els/components/Landing.tsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -2960,7 +2467,7 @@ function Home() {
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [662], () => (__webpack_exec__(3421)));
+var __webpack_exports__ = __webpack_require__.X(0, [462], () => (__webpack_exec__(9594)));
 module.exports = __webpack_exports__;
 
 })();
